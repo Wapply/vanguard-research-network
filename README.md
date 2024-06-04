@@ -14,4 +14,4 @@ We are committed to providing our members with the resources and support they ne
 
 We hope you will join us in our mission to advance research and make the world a better place.
 
-To learn more about Vanguard Research Network, please visit our website at www.vanguardresearchnetwork.org.
+To learn more about Vanguard Research Network, please visit our website at [NO ACC].

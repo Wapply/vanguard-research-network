@@ -4,3 +4,5 @@
 ¿Que es un libro diario + libro mayor y como hacerlo?
 *Что такое ежедневная книга + старая книга и как это сделать?*
 - [[9UA52Q4S]]
+¿Que es una Sociedad y cuales son sus cuentas particulares?
+Что такое общество и каковы ваши конкретные счета?

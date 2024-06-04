@@ -6,4 +6,4 @@
 - [[9UA52Q4S]]
 ¿Que es una Sociedad y cuales son sus cuentas particulares?
 Что такое общество и каковы ваши конкретные счета?
-- [XVY93H2L]
+- [[XVY93H2L]] [X]()

@@ -1,6 +1,6 @@
 # Wapply's Attributes¹
 
-**Name:** Klein Alan Alexis
+**Name:** None
 **Sex:** Male
 **Age:** None
 **Friends:** None
@@ -10,6 +10,5 @@
 **Occupation:** Developer, Secret Agent, RLCS Player.
 
 > All the information in this profile is classified.
-
 ## References:
 1. [[C5301N71]]

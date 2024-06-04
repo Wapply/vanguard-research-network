@@ -1,9 +1,5 @@
 # Welcome to Vanguard Research Network
-Make a welcome text for new users to "Vanguard Research Network" (an Network that works for International Organizations and Universities around the world for showing and search valuable information, an example is the "Learning Network" that offers free text courses about topics in specific so people around the world learns about it)
-
- # Welcome to Vanguard Research Network
-
-Vanguard Research Network is a global network of international organizations and universities that provides access to valuable information and resources. We offer a wide range of services, including:
+Vanguard Research Network is a global network that works with international organizations and universities that provides access to valuable information and resources. We offer a wide range of services, including:
 
 * **Access to scholarly journals and databases:** We provide access to a vast collection of scholarly journals and databases, covering a wide range of disciplines.
 * **Research funding opportunities:** We offer a variety of funding opportunities for researchers, including grants, fellowships, and awards.

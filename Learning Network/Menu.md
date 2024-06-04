@@ -7,4 +7,4 @@
 
 ¿Que es una Sociedad y cuales son sus cuentas particulares?
 *Что такое общество и каковы ваши конкретные счета?*
-- [[XVY93H2L]] [Click here](https://github.com/Wapply/vanguard-research-network/blob/main/Learning%20Network/XVY93H2L.md)
+- [[XVY93H2L]] [/teleport me](https://github.com/Wapply/vanguard-research-network/blob/main/Learning%20Network/XVY93H2L.md)

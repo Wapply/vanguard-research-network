@@ -1,2 +1,2 @@
 # Welcome to Vanguard Research Network
-Make a welcome text for new users to "Vanguard Research Network" (an Network that works for International Organizations and Universities around the world for mak)
+Make a welcome text for new users to "Vanguard Research Network" (an Network that works for International Organizations and Universities around the world for showing and search valuable information, an example is the "Learning Network" that offers free text courses )

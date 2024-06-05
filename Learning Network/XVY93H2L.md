@@ -1,4 +1,5 @@
 # Sociedades
+*Общества*
 
 >**Unión de dos o más personas para desarrollar una actividad económica en común.**
 >*Союз двух или более людей для развития общей экономической деятельности.*

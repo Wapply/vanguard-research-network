@@ -1,7 +1,9 @@
 # Sociedades
 
-> A continuation glosario para Sociedades.
-> *Затем глоссарий для обществ.*
+>
+
+## Glosario
+*Глоссарий*
 
 **Sociedad:** Unión de dos o más personas para desarrollar una actividad económica en común.  
 *Партнерство: Союз двух или более людей для развития общей экономической деятельности.*

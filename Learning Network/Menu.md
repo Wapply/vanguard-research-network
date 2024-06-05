@@ -13,23 +13,4 @@
 >Что такое НДС и что такое счета?
 - [[LP2Z670W]] [/teleport me](https://github.com/Wapply/vanguard-research-network/blob/main/Learning%20Network/LP2Z670W.md)
 
-Genera otra pregunta acerca de los temas de SIC, o cambia alguna.
-
-Title: Menu
-  
-Starred Blocks: 
-	  
-# SIC - Libro de Referencias  
-*SIC - Справочник*
-
-¿Que es un libro diario + libro mayor y como hacerlo?
->*Что такое ежедневная книга + старая книга и как это сделать?*
-- [[9UA52Q4S]] [/teleport me](https://github.com/Wapply/vanguard-research-network/blob/main/Learning%20Network/9UA52Q4S.md)
-
-¿Que es una Sociedad y cuales son sus cuentas particulares?
->*Что такое общество и каковы ваши конкретные счета?*
-- [[XVY93H2L]] [/teleport me](https://github.com/Wapply/vanguard-research-network/blob/main/Learning%20Network/XVY93H2L.md)
-
-**¿Que es la contabilidad de costes?**
->*Что такое калькуляция себестоимости?*
-- [[36235647]] [/teleport me](https://github.com/Wapply/vanguard-research-network/blob/main/Learning%20Network/36235647.md)
+¿?

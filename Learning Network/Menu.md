@@ -10,5 +10,5 @@
 - [[XVY93H2L]] [/teleport me](https://github.com/Wapply/vanguard-research-network/blob/main/Learning%20Network/XVY93H2L.md)
 
 ¿Que es el IVA y que son las Facturas?
-Что такое НДС?
-- [[LP2Z670W]]
+Что такое НДС и что такое счета?
+- [[LP2Z670W]] [/teleport me](https://github.com/Wapply/vanguard-research-network/blob/main/Learning%20Network/LP2Z670W.md)

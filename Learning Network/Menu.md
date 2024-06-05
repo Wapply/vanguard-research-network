@@ -10,3 +10,5 @@
 - [[XVY93H2L]] [/teleport me](https://github.com/Wapply/vanguard-research-network/blob/main/Learning%20Network/XVY93H2L.md)
 
 ¿Que es el IVA?
+Что такое НДС?
+- [[LP2Z670W]]

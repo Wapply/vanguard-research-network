@@ -9,6 +9,6 @@
 *Что такое общество и каковы ваши конкретные счета?*
 - [[XVY93H2L]] [/teleport me](https://github.com/Wapply/vanguard-research-network/blob/main/Learning%20Network/XVY93H2L.md)
 
-¿Que es el IVA?
+¿Que es el IVA y que son las Facturas?
 Что такое НДС?
 - [[LP2Z670W]]

@@ -1,9 +1,10 @@
 # Sociedades
 
-> 
+> A continuation glosario para Sociedades.
+> *Затем глоссарий для обществ.*
 
 **Sociedad:** Unión de dos o más personas para desarrollar una actividad económica en común.  
-Партнерство: Союз двух или более людей для развития общей экономической деятельности.
+*Партнерство: Союз двух или более людей для развития общей экономической деятельности.*
 
 Aportes: Entregas de los socios para formar el capital social (dinero, bienes, trabajo).  
 Вклады: Поставки от партнеров для формирования социального капитала (деньги, товары, работа).

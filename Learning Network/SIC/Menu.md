@@ -1,5 +1,4 @@
-# SIC - Libro de Referencias  
-*SIC - Справочник*
+# Libro de Referencias / Справочник
 
 ¿Que es un libro diario + libro mayor y como hacerlo?
 >*Что такое ежедневная книга + старая книга и как это сделать?*

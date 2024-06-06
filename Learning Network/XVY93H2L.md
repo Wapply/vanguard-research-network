@@ -21,8 +21,7 @@
 **Disolución y liquidación:** Proceso de finalización de la sociedad.  
 >*Роспуск и ликвидация: Процесс прекращения деятельности компании.*
 
-## Tipos de Sociedades:  
-*Типы компаний:*
+## Tipos de Sociedades / Типы компаний
 
 - Sociedad Colectiva (S.C.)  
 >*Коллективное общество (SC)*

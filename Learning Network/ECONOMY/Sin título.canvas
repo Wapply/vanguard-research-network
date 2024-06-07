@@ -11,9 +11,9 @@
 		{"id":"8014827b5ee82409","type":"text","text":"# Bienes\nEs todo aquel elemento material que satisface directamente un deseo o necesidad del individuo.\n- Celular\n- Encendedor","x":-1160,"y":-460,"width":260,"height":287},
 		{"id":"cfc743c14b84f5a6","type":"text","text":"Consumo","x":-1041,"y":200,"width":136,"height":60},
 		{"id":"5251385ea2bf5908","type":"text","text":"Produccion","x":-881,"y":200,"width":169,"height":60},
-		{"id":"24c5be4a1931ac5e","type":"text","text":"Bienes Economicos","x":-1247,"y":-130,"width":217,"height":60},
-		{"id":"fa6e52b158a20f39","type":"text","text":"Bienes Libres","x":-1018,"y":-130,"width":167,"height":60},
-		{"id":"a8330aee9c73a316","type":"text","text":"## Clasificacion","x":-1135,"y":-37,"width":230,"height":60}
+		{"id":"24c5be4a1931ac5e","type":"text","text":"Bienes Economicos","x":-1247,"y":-120,"width":217,"height":60},
+		{"id":"fa6e52b158a20f39","type":"text","text":"Bienes Libres","x":-1018,"y":-120,"width":167,"height":60},
+		{"id":"a8330aee9c73a316","type":"text","text":"## Clasificacion","x":-1145,"y":0,"width":230,"height":60}
 	],
 	"edges":[
 		{"id":"09067084f7c38fb3","fromNode":"8760cc79a032f261","fromSide":"bottom","toNode":"df66076b3fb74793","toSide":"top"},
@@ -25,6 +25,8 @@
 		{"id":"89d7ade426a07da2","fromNode":"b73a586dabbfc597","fromSide":"bottom","toNode":"06479dbff595c825","toSide":"top"},
 		{"id":"2d35a6abbcd3ef11","fromNode":"b73a586dabbfc597","fromSide":"bottom","toNode":"d2a6f21a3ee75ccb","toSide":"top"},
 		{"id":"71ed8321ef7fe589","fromNode":"8014827b5ee82409","fromSide":"bottom","toNode":"24c5be4a1931ac5e","toSide":"top"},
-		{"id":"a73074837be07916","fromNode":"8014827b5ee82409","fromSide":"bottom","toNode":"fa6e52b158a20f39","toSide":"top"}
+		{"id":"a73074837be07916","fromNode":"8014827b5ee82409","fromSide":"bottom","toNode":"fa6e52b158a20f39","toSide":"top"},
+		{"id":"cd076a0559fd837b","fromNode":"24c5be4a1931ac5e","fromSide":"bottom","toNode":"a8330aee9c73a316","toSide":"top"},
+		{"id":"e063aec4b334cd8c","fromNode":"fa6e52b158a20f39","fromSide":"bottom","toNode":"a8330aee9c73a316","toSide":"top"}
 	]
 }

@@ -26,7 +26,6 @@
 
 **3. Al final del año, la sociedad obtiene ganancias. ¿Cómo se decide cuánto dinero recibe cada socio? ¿Qué factores se tienen en cuenta?**
 >*В конце года общество получает прибыль. Как принимается решение о том, сколько денег получает каждый участник? Какие факторы учитываются?*
-
 ## Unidad 3:  Comprobantes y el IVA
 >Блок 3: Доказательство и НДС
 
@@ -38,5 +37,4 @@
 
 **3. Si eres un pequeño emprendedor y calificas para ser monotributista, ¿qué ventajas fiscales tendrías en comparación con una empresa que paga impuestos como "Responsable Inscripto"?**
 >*Если вы - мелкий предприниматель и соответствуете требованиям для уплаты единого налога, какие налоговые преимущества у вас будут по сравнению с компанией, которая платит налоги как «зарегистрированный налогоплательщик»?*
-
 ### Glosario / Глоссарий

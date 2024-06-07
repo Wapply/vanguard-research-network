@@ -1,6 +1,11 @@
 {
 	"nodes":[
-		{"id":"8760cc79a032f261","x":-89,"y":-174,"width":250,"height":60,"type":"text","text":"Servicios"}
+		{"id":"a8d69c0603d994e6","type":"text","text":"Privados","x":48,"y":-7,"width":144,"height":60},
+		{"id":"8760cc79a032f261","x":-89,"y":-140,"width":209,"height":60,"type":"text","text":"# Servicios"},
+		{"id":"df66076b3fb74793","x":-153,"y":-7,"width":129,"height":60,"type":"text","text":"Publicos"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"09067084f7c38fb3","fromNode":"8760cc79a032f261","fromSide":"bottom","toNode":"df66076b3fb74793","toSide":"top"},
+		{"id":"1be3dedbeb2a5f09","fromNode":"8760cc79a032f261","fromSide":"bottom","toNode":"a8d69c0603d994e6","toSide":"top"}
+	]
 }

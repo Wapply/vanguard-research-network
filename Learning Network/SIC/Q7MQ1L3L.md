@@ -22,4 +22,12 @@
 
 **11. CUIT (Clave Única de Identificación Tributaria):** Es un número único que identifica a una persona o empresa ante la AFIP. Es como el DNI (Documento Nacional de Identidad) pero para temas fiscales.
 
-Gemini/Google: Necesito que copies el formato de el numero (1) para t, agrega la traduccion al ruso.
+Gemini/Google: Necesito que copies el formato de el numero (1) para todos los demas numeros, agrega la traduccion al ruso.*
+
+**2. Responsable Inscripto:** Es una categoría fiscal para empresas y profesionales que facturan con IVA. A diferencia del Monotributo, deben llevar una contabilidad más compleja y pagar impuestos según sus ganancias reales.
+>***Responsable Inscripto:*** *Налоговая категория для компаний и специалистов, которые выставляют счета-фактуры с НДС. В отличие от Monotributo, они должны вести более сложную бухгалтерию и платить налоги в соответствии с их реальной прибылью.*
+
+**3. IVA (Impuesto al Valor Agregado):** Un impuesto que se>***Monotax:*** *Упрощенный налоговый режим для мелких налогоплательщиков и фрилансеров в Аргентине. По сути, вы платите ежемесячную фиксированную плату, которая покрывает несколько налогов (НДС, прибыль и т. Д.). contribuyentes y autónomos en Argentina. Básicamente, pagas una cuota fija mensual que cubre varios impuestos (IVA, Ganancias, etc.).
+
+
+**1. Monotributo:** Un régimen impositivo simplificado para pequeños

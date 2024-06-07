@@ -1,16 +1,16 @@
 {
 	"nodes":[
-		{"id":"df66076b3fb74793","x":-189,"y":-7,"width":201,"height":147,"type":"text","text":"Publicos:\n- Estado\n- Educacion\n- etc..."},
+		{"id":"df66076b3fb74793","type":"text","text":"Publicos:\n- Estado\n- Educacion\n- etc...","x":-189,"y":-7,"width":201,"height":147},
 		{"id":"a8d69c0603d994e6","type":"text","text":"Privados:\n- Particulares\n- Empresas\n- etc...","x":24,"y":-7,"width":192,"height":147},
-		{"id":"b73a586dabbfc597","x":-99,"y":200,"width":230,"height":60,"type":"text","text":"## Clasificacion"},
-		{"id":"b371adb074625dc9","x":-364,"y":340,"width":161,"height":100,"type":"text","text":"Taller:\n- Motos"},
+		{"id":"b73a586dabbfc597","type":"text","text":"## Clasificacion","x":-99,"y":200,"width":230,"height":60},
+		{"id":"b371adb074625dc9","type":"text","text":"Taller:\n- Motos","x":-364,"y":340,"width":161,"height":100},
 		{"id":"db4c7dc3c256ac50","type":"text","text":"Domicilio:\n- Gasista","x":-192,"y":340,"width":168,"height":100},
 		{"id":"06479dbff595c825","type":"text","text":"Alquiler:\n- Departamento","x":-12,"y":340,"width":216,"height":100},
-		{"id":"d2a6f21a3ee75ccb","x":216,"y":340,"width":200,"height":120,"type":"text","text":"Mantenimiento:\n- Cable / TV\n- Autos"},
-		{"id":"8760cc79a032f261","x":-118,"y":-340,"width":268,"height":240,"type":"text","text":"# Servicios\nSon todas las actividades que ofrecen las personas para satisfacer las necesidades Humanas.\n- Transporte Publico"},
+		{"id":"d2a6f21a3ee75ccb","type":"text","text":"Mantenimiento:\n- Cable / TV\n- Autos","x":216,"y":340,"width":200,"height":120},
+		{"id":"8760cc79a032f261","type":"text","text":"# Servicios\nSon todas las actividades que ofrecen las personas para satisfacer las necesidades Humanas.\n- Transporte Publico","x":-118,"y":-340,"width":268,"height":240},
 		{"id":"8014827b5ee82409","type":"text","text":"# Bienes\nEs todo aquel elemento material que satisface directamente un deseo o necesidad del individuo.\n- Celular\n- Encendedor","x":-1160,"y":-460,"width":260,"height":287},
-		{"id":"cfc743c14b84f5a6","x":-1228,"y":-127,"width":136,"height":60,"type":"text","text":"Consumo"},
-		{"id":"5251385ea2bf5908","x":-984,"y":-127,"width":169,"height":60,"type":"text","text":"Produccion"}
+		{"id":"5251385ea2bf5908","type":"text","text":"Produccion","x":-1020,"y":-100,"width":169,"height":60},
+		{"id":"cfc743c14b84f5a6","type":"text","text":"Consumo","x":-1180,"y":-100,"width":136,"height":60}
 	],
 	"edges":[
 		{"id":"09067084f7c38fb3","fromNode":"8760cc79a032f261","fromSide":"bottom","toNode":"df66076b3fb74793","toSide":"top"},
@@ -20,6 +20,8 @@
 		{"id":"0736126507da9e58","fromNode":"b73a586dabbfc597","fromSide":"bottom","toNode":"b371adb074625dc9","toSide":"top"},
 		{"id":"f618b7ef41e8b436","fromNode":"b73a586dabbfc597","fromSide":"bottom","toNode":"db4c7dc3c256ac50","toSide":"top"},
 		{"id":"89d7ade426a07da2","fromNode":"b73a586dabbfc597","fromSide":"bottom","toNode":"06479dbff595c825","toSide":"top"},
-		{"id":"2d35a6abbcd3ef11","fromNode":"b73a586dabbfc597","fromSide":"bottom","toNode":"d2a6f21a3ee75ccb","toSide":"top"}
+		{"id":"2d35a6abbcd3ef11","fromNode":"b73a586dabbfc597","fromSide":"bottom","toNode":"d2a6f21a3ee75ccb","toSide":"top"},
+		{"id":"dc2895266420e945","fromNode":"8014827b5ee82409","fromSide":"bottom","toNode":"5251385ea2bf5908","toSide":"top"},
+		{"id":"d7117f0e7cf44f63","fromNode":"8014827b5ee82409","fromSide":"bottom","toNode":"cfc743c14b84f5a6","toSide":"top"}
 	]
 }

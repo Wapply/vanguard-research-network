@@ -1,6 +1,7 @@
 # Libro de Referencias / Справочник
 
 ## Unidad 1:  Llevar la cuenta de todo (Libro Diario)
+>Блок 1: Возьмите отчет обо всем (ежедневная книга)
 
 **1. Imagina que abres un pequeño negocio. ¿Cómo registrarías tu inversión inicial (dinero en efectivo, una computadora, estanterías) en el Libro Diario?**
 >*Представьте, что вы открываете маленький бизнес. Как бы вы зарегистрировали свои первоначальные инвестиции (наличные, компьютер, полки) в ежедневную книгу?*
@@ -15,6 +16,7 @@
 >*Как в конце месяца по ежедневной книге вы понимаете, получил ли ваш бизнес прибыль или убыток?*
 
 ## Unidad 2:  Uniendo fuerzas (Sociedades)
+>Блок 2: Объединенные силы (общества)
 
 **1. Tres amigos quieren iniciar un negocio juntos. ¿Qué tipos de sociedades podrían formar en Argentina? ¿Cuáles son las diferencias clave entre ellas en términos de responsabilidad y administración?**
 >*Три друга хотят начать совместный бизнес. Какие типы обществ они могут создать в Аргентине? В чем ключевые различия между ними с точки зрения ответственности и управления?*

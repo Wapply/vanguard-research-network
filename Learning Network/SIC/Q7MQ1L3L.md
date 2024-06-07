@@ -1,3 +1,4 @@
+# Glosario / Глоссарий
 **1. Monotributo:** Un régimen impositivo simplificado para pequeños contribuyentes y autónomos en Argentina. Básicamente, pagas una cuota fija mensual que cubre varios impuestos (IVA, Ganancias, etc.).
 
 **2. Responsable Inscripto:** Es una categoría fiscal para empresas y profesionales que facturan con IVA. A diferencia del Monotributo, deben llevar una contabilidad más compleja y pagar impuestos según sus ganancias reales.

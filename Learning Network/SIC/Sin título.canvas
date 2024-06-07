@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"bd9ba629710b6ef4","x":-203,"y":-142,"width":250,"height":60,"type":"text","text":"Se ve esto"},
-		{"id":"d68837cf608d1f75","x":-202,"y":23,"width":250,"height":60,"type":"text","text":"GG"}
-	],
-	"edges":[
-		{"id":"cbbcf7a07a4fa348","fromNode":"bd9ba629710b6ef4","fromSide":"bottom","toNode":"d68837cf608d1f75","toSide":"top"}
-	]
-}

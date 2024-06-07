@@ -14,7 +14,7 @@
 **4. Al final del mes, ¿cómo usas la información del Libro Diario para saber si tu negocio tuvo ganancias o pérdidas?**
 >*Как в конце месяца по ежедневной книге вы понимаете, получил ли ваш бизнес прибыль или убыток?*
 
-## Unidad 2:  Uniendo fuerzas: las Sociedades
+## Unidad 2:  Uniendo fuerzas (Sociedades)
 
 **1. Tres amigos quieren iniciar un negocio juntos. ¿Qué tipos de sociedades podrían formar en Argentina? ¿Cuáles son las diferencias clave entre ellas en términos de responsabilidad y administración?**
 >*Три друга хотят начать совместный бизнес. Какие типы обществ они могут создать в Аргентине? В чем ключевые различия между ними с точки зрения ответственности и управления?*
@@ -25,7 +25,7 @@
 **3. Al final del año, la sociedad obtiene ganancias. ¿Cómo se decide cuánto dinero recibe cada socio? ¿Qué factores se tienen en cuenta?**
 >*В конце года общество получает прибыль. Как принимается решение о том, сколько денег получает каждый участник? Какие факторы учитываются?*
 
-**Unidad 3:  Comprobantes y el IVA: la historia de cada venta**
+## Unidad 3:  Comprobantes y el IVA
 
 **1. Un cliente entra a tu tienda y te compra un producto. ¿Qué tipo de comprobante deberías entregarle? ¿Cambiaría tu respuesta si el cliente fuera un turista extranjero?**
 >*Клиент заходит в ваш магазин и покупает товар. Какой тип документа вы должны ему предоставить? Изменится ли ваш ответ, если клиент - иностранный турист?*

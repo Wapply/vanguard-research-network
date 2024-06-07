@@ -21,3 +21,5 @@
 **10. AFIP (Administración Federal de Ingresos Públicos):** Es el ente recaudador de impuestos en Argentina. Se encarga de controlar que las empresas y personas cumplan con sus obligaciones fiscales.
 
 **11. CUIT (Clave Única de Identificación Tributaria):** Es un número único que identifica a una persona o empresa ante la AFIP. Es como el DNI (Documento Nacional de Identidad) pero para temas fiscales.
+
+Gemini/Google: Necesito que copies el formato de el nume

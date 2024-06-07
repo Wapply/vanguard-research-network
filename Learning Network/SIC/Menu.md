@@ -39,4 +39,4 @@
 **3. Si eres un pequeño emprendedor y calificas para ser monotributista, ¿qué ventajas fiscales tendrías en comparación con una empresa que paga impuestos como "Responsable Inscripto"?**
 >*Если вы - мелкий предприниматель и соответствуете требованиям для уплаты единого налога, какие налоговые преимущества у вас будут по сравнению с компанией, которая платит налоги как «зарегистрированный налогоплательщик»?*
 
-Glosario
+### Glosario / Глоссарий

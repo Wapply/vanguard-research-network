@@ -4,10 +4,10 @@
 		{"id":"df66076b3fb74793","x":-189,"y":-7,"width":201,"height":147,"type":"text","text":"Publicos:\n- Estado\n- Educacion\n- etc..."},
 		{"id":"a8d69c0603d994e6","type":"text","text":"Privados:\n- Particulares\n- Empresas\n- etc...","x":24,"y":-7,"width":192,"height":147},
 		{"id":"b73a586dabbfc597","x":-99,"y":200,"width":230,"height":60,"type":"text","text":"## Clasificacion"},
-		{"id":"06479dbff595c825","type":"text","text":"Alquiler","x":24,"y":390,"width":140,"height":60},
-		{"id":"d2a6f21a3ee75ccb","x":180,"y":390,"width":186,"height":60,"type":"text","text":"Mantenimiento"},
-		{"id":"db4c7dc3c256ac50","type":"text","text":"Domicilio","x":-128,"y":390,"width":140,"height":60},
-		{"id":"b371adb074625dc9","x":-260,"y":390,"width":120,"height":60,"type":"text","text":"Taller"}
+		{"id":"06479dbff595c825","type":"text","text":"Alquiler","x":24,"y":340,"width":140,"height":60},
+		{"id":"d2a6f21a3ee75ccb","x":180,"y":340,"width":186,"height":60,"type":"text","text":"Mantenimiento"},
+		{"id":"b371adb074625dc9","x":-328,"y":340,"width":161,"height":100,"type":"text","text":"Taller:\n- Motos"},
+		{"id":"db4c7dc3c256ac50","type":"text","text":"Domicilio:\n- Gasista","x":-156,"y":340,"width":168,"height":100}
 	],
 	"edges":[
 		{"id":"09067084f7c38fb3","fromNode":"8760cc79a032f261","fromSide":"bottom","toNode":"df66076b3fb74793","toSide":"top"},

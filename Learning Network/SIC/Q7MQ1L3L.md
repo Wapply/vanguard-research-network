@@ -15,16 +15,16 @@
 >***Бухгалтерский:*** *Это бухгалтерская книга, которая организует информацию из Книги учета по счетам. Позволяет в краткой форме просматривать движения и остатки по каждому счету (Касса, Банк, Продажи и т. Д.).*
 
 **6. Comprobante Fiscal:** Es un documento que respalda una operación comercial y tiene validez legal para la AFIP (Administración Federal de Ingresos Públicos). Ejemplos: Factura, Remito, Ticket.
->***Comprobante Fiscal:*** *Это документ, который поддерживает коммерческую операцию и имеет юридическую силу для AFIP (Федеральное управление государственных доходов). Примеры: Счет-фактура, Накладная, Чек.*
+>***Фискальное доказательство:*** *Это документ, который поддерживает коммерческую операцию и имеет юридическую силу для AFIP (Федеральное управление государственных доходов). Примеры: Счет-фактура, Накладная, Чек.*
 
 **7. Factura A:** Comprobante que se emite entre Responsables Inscriptos en el IVA. Discrimina el precio, el IVA y otros impuestos.
->***Factura A:*** *Квитанция, которая выдается между лицами, зарегистрированными для уплаты НДС. Определяет цену, НДС и другие налоги.*
+>***Счет A:*** *Квитанция, которая выдается между лицами, зарегистрированными для уплаты НДС. Определяет цену, НДС и другие налоги.*
 
 **8. Factura B:** Comprobante que pueden emitir tanto los Responsables Inscriptos como los Monotributistas. No discrimina el IVA.
->***Factura B:*** *Квитанция, которую могут выписывать как юридические лица, зарегистрированные для уплаты НДС, так и плательщики единого налога. Не выделяет НДС.*
+>***Счет B:*** *Квитанция, которую могут выписывать как юридические лица, зарегистрированные для уплаты НДС, так и плательщики единого налога. Не выделяет НДС.*
 
 **9. Factura C:** Comprobante que emite un Monotributista a otro Monotributista o a un Consumidor Final. No discrimina el IVA.
->***Factura C:*** *Квитанция, которую плательщик единого налога выставляет другому плательщику единого налога или конечному потребителю. Не выделяет НДС.*
+>***Счет C:*** *Квитанция, которую плательщик единого налога выставляет другому плательщику единого налога или конечному потребителю. Не выделяет НДС.*
 
 **10. AFIP (Administración Federal de Ingresos Públicos):** Es el ente recaudador de impuestos en Argentina. Se encarga de controlar que las empresas y personas cumplan con sus obligaciones fiscales.
 >***AFIP (Administración Federal de Ingresos Públicos):*** *Это орган, собирающий налоги в Аргентине. Он отвечает за контроль за тем, чтобы компании и частные лица выполняли свои налоговые обязательства.*

@@ -27,7 +27,7 @@
 >***Счет C:*** *Квитанция, которую плательщик единого налога выставляет другому плательщику единого налога или конечному потребителю. Не выделяет НДС.*
 
 **10. AFIP (Administración Federal de Ingresos Públicos):** Es el ente recaudador de impuestos en Argentina. Se encarga de controlar que las empresas y personas cumplan con sus obligaciones fiscales.
->***AFIP (Administración Federal de Ingresos Públicos):*** *Это орган, собирающий налоги в Аргентине. Он отвечает за контроль за тем, чтобы компании и частные лица выполняли свои налоговые обязательства.*
+>***AFIP (Федеральное управление государственного дохода):*** *Это орган, собирающий налоги в Аргентине. Он отвечает за контроль за тем, чтобы компании и частные лица выполняли свои налоговые обязательства.*
 
 **11. CUIT (Clave Única de Identificación Tributaria):** Es un número único que identifica a una persona o empresa ante la AFIP. Es como el DNI (Documento Nacional de Identidad) pero para temas fiscales.
->***CUIT (Clave Única de Identificación Tributaria):*** *Это уникальный номер, который идентифицирует человека или компанию перед AFIP. Это как DNI (Национальное удостоверение личности), но для налоговых целей.*
+>***Cuit (уникальный ключ идентификации налогов):*** *Это уникальный номер, который идентифицирует человека или компанию перед AFIP. Это как DNI (Национальное удостоверение личности), но для налоговых целей.*

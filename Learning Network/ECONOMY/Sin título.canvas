@@ -9,10 +9,10 @@
 		{"id":"d2a6f21a3ee75ccb","type":"text","text":"Mantenimiento:\n- Cable / TV\n- Autos","x":216,"y":340,"width":200,"height":120},
 		{"id":"8760cc79a032f261","type":"text","text":"# Servicios\nSon todas las actividades que ofrecen las personas para satisfacer las necesidades Humanas.\n- Transporte Publico","x":-118,"y":-340,"width":268,"height":240},
 		{"id":"8014827b5ee82409","type":"text","text":"# Bienes\nEs todo aquel elemento material que satisface directamente un deseo o necesidad del individuo.\n- Celular\n- Encendedor","x":-1160,"y":-460,"width":260,"height":287},
-		{"id":"5251385ea2bf5908","type":"text","text":"Produccion","x":-1020,"y":-100,"width":169,"height":60},
-		{"id":"cfc743c14b84f5a6","type":"text","text":"Consumo","x":-1180,"y":-100,"width":136,"height":60},
-		{"id":"fa6e52b158a20f39","x":-1211,"y":60,"width":167,"height":60,"type":"text","text":"Bienes Libres"},
-		{"id":"24c5be4a1931ac5e","x":-1440,"y":60,"width":217,"height":60,"type":"text","text":"Bienes Economicos"}
+		{"id":"5251385ea2bf5908","type":"text","text":"Produccion","x":-1030,"y":80,"width":169,"height":60},
+		{"id":"cfc743c14b84f5a6","type":"text","text":"Consumo","x":-1190,"y":80,"width":136,"height":60},
+		{"id":"fa6e52b158a20f39","type":"text","text":"Bienes Libres","x":-1018,"y":-100,"width":167,"height":60},
+		{"id":"24c5be4a1931ac5e","type":"text","text":"Bienes Economicos","x":-1247,"y":-100,"width":217,"height":60}
 	],
 	"edges":[
 		{"id":"09067084f7c38fb3","fromNode":"8760cc79a032f261","fromSide":"bottom","toNode":"df66076b3fb74793","toSide":"top"},
@@ -23,9 +23,7 @@
 		{"id":"f618b7ef41e8b436","fromNode":"b73a586dabbfc597","fromSide":"bottom","toNode":"db4c7dc3c256ac50","toSide":"top"},
 		{"id":"89d7ade426a07da2","fromNode":"b73a586dabbfc597","fromSide":"bottom","toNode":"06479dbff595c825","toSide":"top"},
 		{"id":"2d35a6abbcd3ef11","fromNode":"b73a586dabbfc597","fromSide":"bottom","toNode":"d2a6f21a3ee75ccb","toSide":"top"},
-		{"id":"dc2895266420e945","fromNode":"8014827b5ee82409","fromSide":"bottom","toNode":"5251385ea2bf5908","toSide":"top"},
-		{"id":"d7117f0e7cf44f63","fromNode":"8014827b5ee82409","fromSide":"bottom","toNode":"cfc743c14b84f5a6","toSide":"top"},
-		{"id":"80d4ec346867de25","fromNode":"cfc743c14b84f5a6","fromSide":"bottom","toNode":"fa6e52b158a20f39","toSide":"top"},
-		{"id":"c351483d9e8ae4b0","fromNode":"cfc743c14b84f5a6","fromSide":"bottom","toNode":"24c5be4a1931ac5e","toSide":"top"}
+		{"id":"f8fd35c7520ca653","fromNode":"8014827b5ee82409","fromSide":"bottom","toNode":"24c5be4a1931ac5e","toSide":"top"},
+		{"id":"dc54e17d2203b1ac","fromNode":"8014827b5ee82409","fromSide":"bottom","toNode":"fa6e52b158a20f39","toSide":"top"}
 	]
 }

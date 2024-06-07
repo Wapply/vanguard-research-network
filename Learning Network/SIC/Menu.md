@@ -28,6 +28,7 @@
 >*В конце года общество получает прибыль. Как принимается решение о том, сколько денег получает каждый участник? Какие факторы учитываются?*
 
 ## Unidad 3:  Comprobantes y el IVA
+>Блок 3: Доказательство и НДС
 
 **1. Un cliente entra a tu tienda y te compra un producto. ¿Qué tipo de comprobante deberías entregarle? ¿Cambiaría tu respuesta si el cliente fuera un turista extranjero?**
 >*Клиент заходит в ваш магазин и покупает товар. Какой тип документа вы должны ему предоставить? Изменится ли ваш ответ, если клиент - иностранный турист?*
@@ -37,3 +38,5 @@
 
 **3. Si eres un pequeño emprendedor y calificas para ser monotributista, ¿qué ventajas fiscales tendrías en comparación con una empresa que paga impuestos como "Responsable Inscripto"?**
 >*Если вы - мелкий предприниматель и соответствуете требованиям для уплаты единого налога, какие налоговые преимущества у вас будут по сравнению с компанией, которая платит налоги как «зарегистрированный налогоплательщик»?*
+
+Glosario

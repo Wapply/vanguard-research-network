@@ -4,11 +4,14 @@ Es todo aquel elemento material que satisface directamente un deseo o necesidad 
 
 **Ejemplos / Примеры:**
 - Celular
-
+>Сотовый телефон
 - Encendedor
+>Более легкий
 ## Clasificación / Классификация: (1)
 - Bienes Económicos (Poseen un valor meramente Económico, como la ropa)
+>Экономические товары (они имеют просто экономическую ценность, такую ​​как одежда)
 - Bienes Libres (No poseen un valor Económico, como el aire)
+>Бесплатные товары (они не имеют экономической ценности, такой как воздух)
 ## Clasificación / Классификация: (2)
 - Públicos (Gratuitos)
 - Privados (Costoso)

@@ -8,4 +8,9 @@ Es todo aquel elemento material que satisface directamente un deseo o necesidad 
 - Encendedor
 
 ### Clasificación 1:
-Bienes Económicos
+- Bienes Económicos
+- Bienes Libres
+### Clasificación 2:
+- Consumo
+- Producción
+### Clasificación 3:

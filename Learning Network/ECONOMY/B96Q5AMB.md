@@ -1,5 +1,6 @@
-# Bienes
+# Bienes / 
 Es todo aquel elemento material que satisface directamente un deseo o necesidad del individuo.
+>Это все, что материальный элемент, который непосредственно удовлетворяет желанию или необходимости индивидуума.
 
 **Ejemplos:**
 - Celular

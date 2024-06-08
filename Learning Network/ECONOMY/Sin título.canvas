@@ -13,7 +13,10 @@
 		{"id":"b73a586dabbfc597","type":"text","text":"## Clasificacion","x":-435,"y":80,"width":230,"height":60},
 		{"id":"a8d69c0603d994e6","type":"text","text":"Privados:\n- Particulares\n- Empresas\n- etc...","x":-312,"y":-127,"width":192,"height":147},
 		{"id":"cfc743c14b84f5a6","type":"text","text":"Consumo","x":-1347,"y":160,"width":136,"height":60},
-		{"id":"5251385ea2bf5908","type":"text","text":"Produccion","x":-1199,"y":160,"width":169,"height":60}
+		{"id":"5251385ea2bf5908","type":"text","text":"Produccion","x":-1199,"y":160,"width":169,"height":60},
+		{"id":"53bd73ad11b5e66e","x":-1382,"y":279,"width":135,"height":60,"type":"text","text":"De Lujo"},
+		{"id":"8e0c20d084953289","x":-1213,"y":279,"width":137,"height":60,"type":"text","text":"Normales"},
+		{"id":"0726405209430f41","x":-1368,"y":357,"width":208,"height":60,"type":"text","text":"De 1° Necesidad"}
 	],
 	"edges":[
 		{"id":"09067084f7c38fb3","fromNode":"8760cc79a032f261","fromSide":"bottom","toNode":"df66076b3fb74793","toSide":"top"},

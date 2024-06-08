@@ -18,6 +18,7 @@ Subrayar las necesidades primarias y marcar con un círculo las secundarias.
 Marcar la opción correcta.
 
 1. ¿Qué tipo de necesidades se busca satisfacer primero?
+   - 
    - c) Necesidades fisiológicas
 
 2. Si realizamos un emprendimiento productivo ¿Qué tipo de necesidades buscamos satisfacer?

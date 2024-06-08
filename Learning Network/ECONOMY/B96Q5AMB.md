@@ -17,3 +17,7 @@ Es todo aquel elemento material que satisface directamente un deseo o necesidad 
 - Inferiores
 - Normales
 - De Lujo
+### Clasificación 4:
+- Independientes
+- Sustitutos
+- Complementarios

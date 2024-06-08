@@ -2,5 +2,10 @@
 
 ## Bienes
 Es todo aquel elemento material que satisface directamente un deseo o necesidad del individuo.
+
+**Ejemplos:**
 - Celular
 - Encendedor
+
+### Clasificación 1:
+Bienes Económicos

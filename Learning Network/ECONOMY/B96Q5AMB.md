@@ -6,7 +6,6 @@ Es todo aquel elemento material que satisface directamente un deseo o necesidad 
 **Ejemplos:**
 - Celular
 - Encendedor
-
 ### Clasificación 1:
 - Bienes Económicos
 - Bienes Libres
@@ -14,3 +13,7 @@ Es todo aquel elemento material que satisface directamente un deseo o necesidad 
 - Consumo
 - Producción
 ### Clasificación 3:
+- 1° Necesidad
+- Inferiores
+- Normales
+- De Lujo

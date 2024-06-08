@@ -27,21 +27,21 @@ Marcar la opción correcta.
 #### Actividad 3
 Indicar con una X, según corresponda.
 
-|                         | Del individuo |                | De la sociedad |
-|-------------------------|---------------|----------------|----------------|
-|                         | Naturales     | Sociales       |                |
-| 1. Ser fashionista      |               | X              |                |
-| 2. Seguridad            |               |                | X              |
-| 3. Comer                | X             |                |                |
-| 4. Transporte público   |               |                | X              |
-| 5. Usar auto            | X             |                |                |
-| 6. Festejar los 15 años de las mujeres | X |            |                |
-| 7. Orden público        |               |                | X              |
-| 8. Beber agua           | X             |                |                |
-| 9. Descansar            | X             |                |                |
-| 10. Educación           |               |                | X              |
-| 11. Celebrar las bodas  | X             |                |                |
-| 12. Tranquilidad        |               |                | X              |
+|                                        | Individuo | Individuo |          |
+| -------------------------------------- | --------- | --------- | -------- |
+|                                        | Naturales | Sociales  | Sociedad |
+| 1. Ser fashionista                     |           | X         |          |
+| 2. Seguridad                           |           |           | X        |
+| 3. Comer                               | X         |           |          |
+| 4. Transporte público                  |           |           | X        |
+| 5. Usar auto                           | X         |           |          |
+| 6. Festejar los 15 años de las mujeres | X         |           |          |
+| 7. Orden público                       |           |           | X        |
+| 8. Beber agua                          | X         |           |          |
+| 9. Descansar                           | X         |           |          |
+| 10. Educación                          |           |           | X        |
+| 11. Celebrar las bodas                 | X         |           |          |
+| 12. Tranquilidad                       |           |           | X        |
 
 #### Actividad 4
 El Estado cuando decide invertir en educación, seguridad y salud ¿Qué tipo de necesidades pretende satisfacer?

@@ -28,6 +28,5 @@ Son todas las actividades que ofrecen las personas para satisfacer las necesidad
 **Ejemplos:**
 - Transporte Publico
 
-Publicos:
-- Estado
-- Educación
+Públicos (Estado, Educación)
+Privados (Particulares, Empresas)

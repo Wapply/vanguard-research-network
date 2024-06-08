@@ -16,7 +16,10 @@
 		{"id":"5251385ea2bf5908","type":"text","text":"Produccion","x":-1199,"y":160,"width":169,"height":60},
 		{"id":"53bd73ad11b5e66e","x":-1382,"y":279,"width":135,"height":60,"type":"text","text":"De Lujo"},
 		{"id":"8e0c20d084953289","x":-1213,"y":279,"width":137,"height":60,"type":"text","text":"Normales"},
-		{"id":"0726405209430f41","x":-1368,"y":357,"width":208,"height":60,"type":"text","text":"De 1° Necesidad"}
+		{"id":"0726405209430f41","x":-1368,"y":357,"width":208,"height":60,"type":"text","text":"De 1° Necesidad"},
+		{"id":"436aa8e845f8226e","x":-1114,"y":357,"width":140,"height":60,"type":"text","text":"Inferiores"},
+		{"id":"4d1050a27cb9c450","x":-1036,"y":249,"width":185,"height":60,"type":"text","text":"Independientes"},
+		{"id":"05009bf3a015dcb3","x":-964,"y":442,"width":250,"height":60,"type":"text","text":"Sustitutos"}
 	],
 	"edges":[
 		{"id":"09067084f7c38fb3","fromNode":"8760cc79a032f261","fromSide":"bottom","toNode":"df66076b3fb74793","toSide":"top"},

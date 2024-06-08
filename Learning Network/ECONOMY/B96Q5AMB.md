@@ -2,8 +2,9 @@
 Es todo aquel elemento material que satisface directamente un deseo o necesidad del individuo.
 >Это все, что материальный элемент, который непосредственно удовлетворяет желанию или необходимости индивидуума.
 
-**Ejemplos:**
+**Ejemplos / Примеры:**
 - Celular
+
 - Encendedor
 ## Clasificación / Классификация: (1)
 - Bienes Económicos (Poseen un valor meramente Económico, como la ropa)
@@ -19,7 +20,7 @@ Es todo aquel elemento material que satisface directamente un deseo o necesidad 
 - Inferiores
 - Normales
 - De Lujo
-## Clasificación / Классификация:
+## Clasificación / Классификация: (5)
 - Independientes
 - Sustitutos
 - Complementarios
@@ -29,10 +30,10 @@ Son todas las actividades que ofrecen las personas para satisfacer las necesidad
 **Ejemplos:**
 - Transporte Publico
 - Repartidor de Pedidos
-## Clasificación / Классификация:
+## Clasificación / Классификация: (1)
 - Públicos (Estado, Educación)
 - Privados (Particulares, Empresas)
-## Clasificación 2:
+## Clasificación / Классификация: (2)
 - Taller (Motos)
 - Domicilio (Gasista, Electricista)
 - Alquiler (Departamento, Taxista)

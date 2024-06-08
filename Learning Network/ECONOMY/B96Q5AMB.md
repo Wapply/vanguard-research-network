@@ -10,14 +10,17 @@ Es todo aquel elemento material que satisface directamente un deseo o necesidad 
 - Bienes Económicos
 - Bienes Libres
 ### Clasificación 2:
+- Publico
+- 
+### Clasificación 3:
 - Consumo
 - Producción
-### Clasificación 3:
+### Clasificación 4:
 - 1° Necesidad
 - Inferiores
 - Normales
 - De Lujo
-### Clasificación 4:
+### Clasificación 5:
 - Independientes
 - Sustitutos
 - Complementarios

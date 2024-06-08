@@ -31,32 +31,28 @@ Es todo aquel elemento material que satisface directamente un deseo o necesidad 
 >Нормальные товары
 - De Lujo
 >Роскошные товары
-
-**Clasificación / Классификация: (5)**
+## Clasificación / Классификация: (5)
 - Independientes
 >Независимые
 - Sustitutos
 >Заменимые
 - Complementarios
 >Дополняющие
-
-**Servicios / Услуги**
-
+# Servicios / Услуги
 Son todas las actividades que ofrecen las personas para satisfacer las necesidades Humanas.
+>Это все мероприятия, предлагаемые людьми для удовлетворения потребностей человека.
 
 **Ejemplos:**
 - Transporte Publico
 >Общественный транспорт
 - Repartidor de Pedidos
 >Курьерская доставка
-
-**Clasificación / Классификация: (1)**
+## Clasificación / Классификация: (1)
 - Públicos (Estado, Educación)
 >Государственные (образование)
 - Privados (Particulares, Empresas)
 >Частные (предприниматели, компании)
-
-**Clasificación / Классификация: (2)**
+## Clasificación / Классификация: (2)
 - Taller (Motos)
 >Мастерская (мотоциклы)
 - Domicilio (Gasista, Electricista)

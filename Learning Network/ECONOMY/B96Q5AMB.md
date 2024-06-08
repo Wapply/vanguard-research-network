@@ -14,32 +14,54 @@ Es todo aquel elemento material que satisface directamente un deseo o necesidad 
 >Бесплатные товары (они не имеют экономической ценности, такой как воздух)
 ## Clasificación / Классификация: (2)
 - Públicos (Gratuitos)
-- Privados (Costoso)
+>Общественные (бесплатные)
+- Privados (Costosos)
+>Частные (платные)
 ## Clasificación / Классификация: (3)
 - Consumo
+>Потребительские
 - Producción
+>Производственные
 ## Clasificación / Классификация: (4)
 - 1° Necesidad
+>Товары первой необходимости
 - Inferiores
+>Низшие товары
 - Normales
+>Нормальные товары
 - De Lujo
-## Clasificación / Классификация: (5)
+>Роскошные товары
+
+**Clasificación / Классификация: (5)**
 - Independientes
+>Независимые
 - Sustitutos
+>Заменимые
 - Complementarios
-# Servicios / Услуги
+>Дополняющие
+
+**Servicios / Услуги**
+
 Son todas las actividades que ofrecen las personas para satisfacer las necesidades Humanas.
 
 **Ejemplos:**
 - Transporte Publico
+>Общественный транспорт
 - Repartidor de Pedidos
-## Clasificación / Классификация: (1)
-- Públicos (Estado, Educación)
-- Privados (Particulares, Empresas)
-## Clasificación / Классификация: (2)
-- Taller (Motos)
-- Domicilio (Gasista, Electricista)
-- Alquiler (Departamento, Taxista)
-- Mantenimiento (Servicio de TV, Reparaciones de Autos, Doctor)
+>Курьерская доставка
 
-Continua el estilo Markdown de la Clasificacion 1 (incluida) de los "Bienes", necesito que hagas tambien la traduccion para todo los demas, como Clasificacion 2, 3 ,4 ,5 de Bienes y 1, 2 de Servicios
+**Clasificación / Классификация: (1)**
+- Públicos (Estado, Educación)
+>Государственные (образование)
+- Privados (Particulares, Empresas)
+>Частные (предприниматели, компании)
+
+**Clasificación / Классификация: (2)**
+- Taller (Motos)
+>Мастерская (мотоциклы)
+- Domicilio (Gasista, Electricista)
+>Выездные (газовик, электрик)
+- Alquiler (Departamento, Taxista)
+>Аренда (квартиры, такси)
+- Mantenimiento (Servicio de TV, Reparaciones de Autos, Doctor)
+>Обслуживание (ремонт телевизоров, ремонт автомобилей, врач)

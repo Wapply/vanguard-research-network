@@ -13,7 +13,7 @@ Subrayar las necesidades primarias y marcar con un círculo las secundarias.
 - Respirar (Primaria)
 - Abrigarse (Primaria)
 - Hacer turismo (Secundaria)
-- Educación (Primaria)
+- Educación (Secundaria)
 
 #### Actividad 2
 Marcar la opción correcta.

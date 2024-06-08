@@ -23,6 +23,7 @@ Marcar la opción correcta.
 
 2. Si realizamos un emprendimiento productivo ¿Qué tipo de necesidades buscamos satisfacer?
    - a) Primarias
+   - b) 
 
 ## Explicación
 - **Necesidades naturales:** Son aquellas que son esenciales para la supervivencia y el bienestar físico del individuo. Estas necesidades no dependen de la sociedad y pueden ser satisfechas de manera individual. En este caso, las necesidades naturales son: comer, beber agua, descansar y dormir.

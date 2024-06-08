@@ -27,6 +27,7 @@ Son todas las actividades que ofrecen las personas para satisfacer las necesidad
 
 **Ejemplos:**
 - Transporte Publico
+- Repartidor de Pedidos
 ## Clasificación 1:
 - Públicos (Estado, Educación)
 - Privados (Particulares, Empresas)

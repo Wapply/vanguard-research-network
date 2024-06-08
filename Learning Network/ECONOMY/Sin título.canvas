@@ -4,8 +4,6 @@
 		{"id":"24c5be4a1931ac5e","type":"text","text":"Bienes Economicos","x":-1247,"y":-120,"width":217,"height":60},
 		{"id":"fa6e52b158a20f39","type":"text","text":"Bienes Libres","x":-1018,"y":-120,"width":167,"height":60},
 		{"id":"a8330aee9c73a316","type":"text","text":"## Clasificacion","x":-1145,"y":0,"width":230,"height":60},
-		{"id":"cfc743c14b84f5a6","type":"text","text":"Consumo","x":-1166,"y":100,"width":136,"height":60},
-		{"id":"5251385ea2bf5908","type":"text","text":"Produccion","x":-1018,"y":100,"width":169,"height":60},
 		{"id":"b371adb074625dc9","type":"text","text":"Taller:\n- Motos","x":-700,"y":220,"width":161,"height":100},
 		{"id":"db4c7dc3c256ac50","type":"text","text":"Domicilio:\n- Gasista","x":-528,"y":220,"width":168,"height":100},
 		{"id":"06479dbff595c825","type":"text","text":"Alquiler:\n- Departamento","x":-348,"y":220,"width":216,"height":100},
@@ -13,7 +11,9 @@
 		{"id":"df66076b3fb74793","type":"text","text":"Publicos:\n- Estado\n- Educacion\n- etc...","x":-525,"y":-127,"width":201,"height":147},
 		{"id":"8760cc79a032f261","type":"text","text":"# Servicios\nSon todas las actividades que ofrecen las personas para satisfacer las necesidades Humanas.\n- Transporte Publico","x":-454,"y":-460,"width":268,"height":240},
 		{"id":"b73a586dabbfc597","type":"text","text":"## Clasificacion","x":-435,"y":80,"width":230,"height":60},
-		{"id":"a8d69c0603d994e6","type":"text","text":"Privados:\n- Particulares\n- Empresas\n- etc...","x":-312,"y":-127,"width":192,"height":147}
+		{"id":"a8d69c0603d994e6","type":"text","text":"Privados:\n- Particulares\n- Empresas\n- etc...","x":-312,"y":-127,"width":192,"height":147},
+		{"id":"cfc743c14b84f5a6","type":"text","text":"Consumo","x":-1347,"y":120,"width":136,"height":60},
+		{"id":"5251385ea2bf5908","type":"text","text":"Produccion","x":-1199,"y":120,"width":169,"height":60}
 	],
 	"edges":[
 		{"id":"09067084f7c38fb3","fromNode":"8760cc79a032f261","fromSide":"bottom","toNode":"df66076b3fb74793","toSide":"top"},

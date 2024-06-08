@@ -1,11 +1,11 @@
-# Bienes / 
+# Bienes / Имущество
 Es todo aquel elemento material que satisface directamente un deseo o necesidad del individuo.
 >Это все, что материальный элемент, который непосредственно удовлетворяет желанию или необходимости индивидуума.
 
 **Ejemplos:**
 - Celular
 - Encendedor
-## Clasificación 1:
+## Clasificación 1 / Классификация 1:
 - Bienes Económicos (Poseen un valor meramente Económico, como la ropa)
 - Bienes Libres (No poseen un valor Económico, como el aire)
 ## Clasificación 2:
@@ -23,7 +23,7 @@ Es todo aquel elemento material que satisface directamente un deseo o necesidad 
 - Independientes
 - Sustitutos
 - Complementarios
-# Servicios
+# Servicios / Услуги
 Son todas las actividades que ofrecen las personas para satisfacer las necesidades Humanas.
 
 **Ejemplos:**

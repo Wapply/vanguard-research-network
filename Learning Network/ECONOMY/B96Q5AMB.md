@@ -5,7 +5,7 @@ Es todo aquel elemento material que satisface directamente un deseo o necesidad 
 - Celular
 - Encendedor
 ## Clasificación 1:
-- Bienes Económicos
+- Bienes Económicos (Poseen un valor meramente Económico, como la ropa)
 - Bienes Libres
 ## Clasificación 2:
 - Publico
@@ -31,7 +31,7 @@ Son todas las actividades que ofrecen las personas para satisfacer las necesidad
 - Públicos (Estado, Educación)
 - Privados (Particulares, Empresas)
 ## Clasificación 2:
-- Taller (Motos, )
+- Taller (Motos)
 - Domicilio (Gasista, Electricista)
 - Alquiler (Departamento, Taxista)
 - Mantenimiento (Servicio de TV, Reparaciones de Autos, Doctor)

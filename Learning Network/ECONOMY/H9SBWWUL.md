@@ -37,7 +37,7 @@ Indicar con una X, según corresponda.
 | -------------------------------------- | --------- | --------- | --------- |
 | -------------------------------------- | Naturales | Sociales  | --------- |
 | 1. Ser fashionista                     |           | X         |           |
-| 2. Seguridad                           |           |           | X         |
+| 2. Seguridad                           | X         | X         | X         |
 | 3. Comer                               | X         |           |           |
 | 4. Transporte público                  |           |           | X         |
 | 5. Usar auto                           | X         |           |           |
@@ -45,9 +45,9 @@ Indicar con una X, según corresponda.
 | 7. Orden público                       |           |           | X         |
 | 8. Beber agua                          | X         |           |           |
 | 9. Descansar                           | X         |           |           |
-| 10. Educación                          |           |           | X         |
+| 10. Educación                          | X         | X         | X         |
 | 11. Celebrar las bodas                 | X         |           |           |
-| 12. Tranquilidad                       |           |           | X         |
+| 12. Tranquilidad                       | X         | X         | X         |
 
 ### Actividad 4
 El Estado cuando decide invertir en educación, seguridad y salud ¿Qué tipo de necesidades pretende satisfacer?

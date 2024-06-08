@@ -6,10 +6,10 @@ Es todo aquel elemento material que satisface directamente un deseo o necesidad 
 - Encendedor
 ## Clasificación 1:
 - Bienes Económicos (Poseen un valor meramente Económico, como la ropa)
-- Bienes Libres
+- Bienes Libres (No poseen un valor Económico, como el aire)
 ## Clasificación 2:
-- Publico
-- Privado
+- Públicos (Gratuitos)
+- Privados ()
 ## Clasificación 3:
 - Consumo
 - Producción

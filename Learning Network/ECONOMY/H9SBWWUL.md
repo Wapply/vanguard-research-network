@@ -24,6 +24,11 @@ Marcar la opción correcta.
 2. Si realizamos un emprendimiento productivo ¿Qué tipo de necesidades buscamos satisfacer?
    - a) Primarias
 
+## Explicación
+- **Necesidades naturales:** Son aquellas que son esenciales para la supervivencia y el bienestar físico del individuo. Estas necesidades no dependen de la sociedad y pueden ser satisfechas de manera individual. En este caso, las necesidades naturales son: comer, beber agua, descansar y dormir.
+- **Necesidades sociales:** Son aquellas que surgen de la interacción del individuo con la sociedad. Estas necesidades se satisfacen a través de la participación en grupos sociales, la comunicación con los demás y la aceptación social. En este caso, las necesidades sociales son: ser fashionista, festejar los 15 años de las mujeres, celebrar las bodas y usar auto.
+- **Necesidades de la sociedad:** Son aquellas que son necesarias para el funcionamiento y el desarrollo de la sociedad en su conjunto. Estas necesidades no pueden ser satisfechas por individuos de manera individual, sino que requieren de la cooperación y el esfuerzo colectivo. En este caso, las necesidades de la sociedad son: seguridad, transporte público, orden público, educación y tranquilidad.
+
 ### Actividad 3
 Indicar con una X, según corresponda.
 

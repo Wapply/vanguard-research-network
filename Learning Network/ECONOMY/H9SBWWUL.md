@@ -27,9 +27,9 @@ Marcar la opción correcta.
 #### Actividad 3
 Indicar con una X, según corresponda.
 
-| -                                      | Individuo | Individuo | -        |
+| -                                      | Individuo | Individuo | Sociedad |
 | -------------------------------------- | --------- | --------- | -------- |
-|                                        | Naturales | Sociales  | Sociedad |
+| Necesidades                            | Naturales | Sociales  |          |
 | 1. Ser fashionista                     |           | X         |          |
 | 2. Seguridad                           |           |           | X        |
 | 3. Comer                               | X         |           |          |

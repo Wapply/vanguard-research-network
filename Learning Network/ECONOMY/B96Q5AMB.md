@@ -1,15 +1,13 @@
-# Bienes y Servicios / Товары и услуги
-
-## Bienes
+# Bienes
 Es todo aquel elemento material que satisface directamente un deseo o necesidad del individuo.
 
 **Ejemplos:**
 - Celular
 - Encendedor
-### Clasificación 1:
+## Clasificación 1:
 - Bienes Económicos
 - Bienes Libres
-### Clasificación 2:
+## Clasificación 2:
 - Publico
 - Privado
 ### Clasificación 3:
@@ -24,5 +22,4 @@ Es todo aquel elemento material que satisface directamente un deseo o necesidad 
 - Independientes
 - Sustitutos
 - Complementarios
-
-## Servicios
+# Servicios

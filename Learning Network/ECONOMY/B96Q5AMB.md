@@ -31,7 +31,7 @@ Son todas las actividades que ofrecen las personas para satisfacer las necesidad
 - Públicos (Estado, Educación)
 - Privados (Particulares, Empresas)
 ## Clasificación 2:
-- Taller (Motos)
-- Domicilio (Gasista)
-- Alquiler (Departamento)
-- Mantenimiento (Servicio de TV, Repa)
+- Taller (Motos, )
+- Domicilio (Gasista, Electricista)
+- Alquiler (Departamento, Taxista)
+- Mantenimiento (Servicio de TV, Reparaciones de Autos, Doctor)

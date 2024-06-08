@@ -41,3 +41,5 @@ Son todas las actividades que ofrecen las personas para satisfacer las necesidad
 - Domicilio (Gasista, Electricista)
 - Alquiler (Departamento, Taxista)
 - Mantenimiento (Servicio de TV, Reparaciones de Autos, Doctor)
+
+Continua el estilo Markdown de la Clasificacion 1 (incluida) de los Bienes

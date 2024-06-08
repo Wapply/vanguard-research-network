@@ -1,6 +1,6 @@
 # Las Necesidades Humanas
-
-#### Actividad 1
+## Página 1
+### Actividad 1
 Subrayar las necesidades primarias y marcar con un círculo las secundarias.
 
 - Alimentarse (Primaria)
@@ -15,7 +15,7 @@ Subrayar las necesidades primarias y marcar con un círculo las secundarias.
 - Hacer turismo (Secundaria)
 - Educación (Secundaria)
 
-#### Actividad 2
+### Actividad 2
 Marcar la opción correcta.
 
 1. ¿Qué tipo de necesidades se busca satisfacer primero?
@@ -24,7 +24,7 @@ Marcar la opción correcta.
 2. Si realizamos un emprendimiento productivo ¿Qué tipo de necesidades buscamos satisfacer?
    - a) Primarias
 
-#### Actividad 3
+### Actividad 3
 Indicar con una X, según corresponda.
 
 | Necesidades                            | Individuo | Individuo | Sociedad  |
@@ -43,14 +43,14 @@ Indicar con una X, según corresponda.
 | 11. Celebrar las bodas                 | X         |           |           |
 | 12. Tranquilidad                       |           |           | X         |
 
-#### Actividad 4
+### Actividad 4
 El Estado cuando decide invertir en educación, seguridad y salud ¿Qué tipo de necesidades pretende satisfacer?
 
 - b) Necesidades de la Sociedad
 
-### Página 2
+## Página 2
 
-#### Actividad 1
+### Actividad 1
 Subrayar las necesidades económicas y marcar con un círculo las no económicas.
 
 - Alimentarse (Económica)
@@ -64,7 +64,7 @@ Subrayar las necesidades económicas y marcar con un círculo las no económicas
 - Aprender (No económica)
 - Hacer turismo (Económica)
 
-#### Actividad 2
+### Actividad 2
 Elaborar un mapa conceptual del tema: Necesidades.
 
 **Mapa conceptual (texto):**
@@ -81,7 +81,7 @@ Elaborar un mapa conceptual del tema: Necesidades.
     - Económicas (requieren recursos)
     - No económicas (no requieren recursos)
 
-#### Actividad 3
+### Actividad 3
 ¿Qué tipo de necesidades usted satisface al recibir educación?
 
 - Necesidades primarias y de la sociedad (secundarias).

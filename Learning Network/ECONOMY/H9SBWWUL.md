@@ -54,8 +54,8 @@ Indicar con una X, según corresponda.
 ### Actividad 4
 El Estado cuando decide invertir en educación, seguridad y salud ¿Qué tipo de necesidades pretende satisfacer?
 
-a) Necesidades d
-b) Necesidades de la Sociedad
+a) Necesidades del Individuo
+**b) Necesidades de la Sociedad**
 
 ## Página 2
 

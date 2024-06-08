@@ -11,7 +11,7 @@ Es todo aquel elemento material que satisface directamente un deseo o necesidad 
 - Bienes Libres
 ### Clasificación 2:
 - Publico
-- 
+- Privado
 ### Clasificación 3:
 - Consumo
 - Producción
@@ -24,3 +24,5 @@ Es todo aquel elemento material que satisface directamente un deseo o necesidad 
 - Independientes
 - Sustitutos
 - Complementarios
+
+## Servicios

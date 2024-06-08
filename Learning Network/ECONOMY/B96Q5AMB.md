@@ -9,7 +9,7 @@ Es todo aquel elemento material que satisface directamente un deseo o necesidad 
 - Bienes Libres (No poseen un valor Económico, como el aire)
 ## Clasificación 2:
 - Públicos (Gratuitos)
-- Privados ()
+- Privados (Costoso)
 ## Clasificación 3:
 - Consumo
 - Producción

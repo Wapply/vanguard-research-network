@@ -5,21 +5,21 @@ Es todo aquel elemento material que satisface directamente un deseo o necesidad 
 **Ejemplos:**
 - Celular
 - Encendedor
-## Clasificación 1 / Классификация 1:
+## Clasificación / Классификация: (1)
 - Bienes Económicos (Poseen un valor meramente Económico, como la ropa)
 - Bienes Libres (No poseen un valor Económico, como el aire)
-## Clasificación 2:
+## Clasificación / Классификация: (2)
 - Públicos (Gratuitos)
 - Privados (Costoso)
-## Clasificación 3:
+## Clasificación / Классификация: (3)
 - Consumo
 - Producción
-## Clasificación 4:
+## Clasificación / Классификация: (4)
 - 1° Necesidad
 - Inferiores
 - Normales
 - De Lujo
-## Clasificación 5:
+## Clasificación / Классификация:
 - Independientes
 - Sustitutos
 - Complementarios
@@ -29,7 +29,7 @@ Son todas las actividades que ofrecen las personas para satisfacer las necesidad
 **Ejemplos:**
 - Transporte Publico
 - Repartidor de Pedidos
-## Clasificación 1:
+## Clasificación / Классификация:
 - Públicos (Estado, Educación)
 - Privados (Particulares, Empresas)
 ## Clasificación 2:

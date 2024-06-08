@@ -85,5 +85,3 @@ Elaborar un mapa conceptual del tema: Necesidades.
 ¿Qué tipo de necesidades usted satisface al recibir educación?
 
 - Necesidades primarias y de la sociedad (secundarias).
-
-Listo, todas las actividades están resueltas. ¿Necesitas algo más?

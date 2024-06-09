@@ -36,15 +36,6 @@ b) Necesidades de estima
 **a) Primarias**
 b) Secundarias
 c) Naturales
-
-Gemini: Traduce la Actividad 2 al igual que la actividad 1, usando ">" por debajo del texto en español, NO ESCRIBAS LA ACTIVIDAD 1. Quiero el texto en Español, pero añade las traducciones al ruso, sigue el ejemplo siguiente:
-
-Ejemplo:
-```
-{texto en español} = Alimentarse (Primaria)
-
->*{texto en ruso}* = *еда (первичная)*
-```
 ### Explicación
 **Necesidades naturales:** Son aquellas que son esenciales para la supervivencia y el bienestar físico del individuo. Estas necesidades no dependen de la sociedad y pueden ser satisfechas de manera individual. En este caso, las necesidades naturales son: comer, beber agua, descansar y dormir.
 
@@ -111,3 +102,5 @@ Elaborar un mapa conceptual del tema: Necesidades.
 ¿Qué tipo de necesidades usted satisface al recibir educación?
 
 - Necesidades primarias y de la sociedad (secundarias).
+
+Gemini necesito que añadas una traduccion al ruso a cada linea de texto, un ejemplo es la Actividad 1, que cumple con eso. Hazlo para todas las actividades demas, copia el markdown.

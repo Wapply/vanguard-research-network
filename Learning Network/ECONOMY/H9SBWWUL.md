@@ -37,7 +37,20 @@ b) Necesidades de estima
 b) Secundarias
 c) Naturales
 
-Traduce esto al igual q
+Gemini: Traduce la Actividad 2 al igual que la actividad 1. (Copia el formato)
+
+### Actividad 2 / Активность 2
+Отметить правильный вариант.
+
+1. Какие потребности стремятся удовлетворить в первую очередь?
+a) Потребности самореализации
+b) Потребности в уважении
+**c) Физиологические потребности**
+
+2. Если мы реализуем производственное предприятие, какие потребности мы стремимся удовлетворить?
+**a) Первичные**
+b) Вторичные
+c) Естественные
 ### Explicación
 **Necesidades naturales:** Son aquellas que son esenciales para la supervivencia y el bienestar físico del individuo. Estas necesidades no dependen de la sociedad y pueden ser satisfechas de manera individual. En este caso, las necesidades naturales son: comer, beber agua, descansar y dormir.
 

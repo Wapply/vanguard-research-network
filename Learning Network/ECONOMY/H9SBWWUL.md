@@ -97,4 +97,21 @@ Elaborar un mapa conceptual del tema: Necesidades.
 
 - Necesidades primarias y de la sociedad (secundarias).
 
-Gemini necesito que copies el formato de
+Gemini necesito que copies el formato de la actividad 1 desde usar auto para atras copia este tipo de formato/traduccion y hazlo para el resto.
+
+- Usar auto (Económica)
+>Использование автомобиля (экономическая)
+- Dormir (No económica)
+>Спите (неэкономический)
+- Vivienda (Económica)
+>Жилище (экономическое)
+- Educación (Económica)
+>Образование (экономическое)
+- Respirar (No económica)
+>Дышите (неэкономический)
+- Refugiarse (Económica)
+>Прибежище (экономическое)
+- Aprender (No económica)
+>Узнайте (неэкономический)
+- Hacer turismo (Económica)
+>Путешествуйте (экономический)

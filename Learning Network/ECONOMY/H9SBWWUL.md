@@ -103,4 +103,139 @@ Elaborar un mapa conceptual del tema: Necesidades.
 
 - Necesidades primarias y de la sociedad (secundarias).
 
-Gemini necesito que continues el formato de la Activi markdown + añade traducción (español -> ruso) de la actividad 1, para las actividades 2, 3, 4, 5, 6, 7.
+Gemini necesito que continues el formato de la Actividad "1" que es el markdown +  traducción (español -> ruso), para las actividades 2, 3, 4, 5, 6, 7.
+
+### Actividad 2
+Marcar la opción correcta.
+
+1. ¿Qué tipo de necesidades se busca satisfacer primero?
+a) Necesidades autorrealización
+b) Necesidades de estima
+**c) Necesidades fisiológicas**
+
+>* Какой тип потребностей стремится удовлетворить в первую очередь?
+>а) Потребности самореализации
+>б) Потребности уважения
+>**в) Физиологические потребности**
+
+2. Si realizamos un emprendimiento productivo ¿Qué tipo de necesidades buscamos satisfacer?
+**a) Primarias**
+b) Secundarias
+c) Naturales
+
+>* Если мы реализуем продуктивное предприятие, какой тип потребностей мы стремимся удовлетворить?
+>**а) Первичные**
+>б) Вторичные
+>в) Естественные
+
+### Actividad 3
+Indicar con una X, según corresponda.
+
+| Necesidades                            | Individuo | Individuo | Sociedad  |
+| -------------------------------------- | --------- | --------- | --------- |
+| -------------------------------------- | Naturales | Sociales  | --------- |
+| 1. Ser fashionista                     |           | X         |           |
+| 2. Seguridad                           | X         | X         | X         |
+| 3. Comer                               | X         |           |           |
+| 4. Transporte público                  |           |           | X         |
+| 5. Usar auto                           | X         |           |           |
+| 6. Festejar los 15 años de las mujeres | X         |           |           |
+| 7. Orden público                       |           |           | X         |
+| 8. Beber agua                          | X         |           |           |
+| 9. Descansar                           | X         |           |           |
+| 10. Educación                          | X         | X         | X         |
+| 11. Celebrar las bodas                 | X         |           |           |
+| 12. Tranquilidad                       | X         | X         | X         |
+
+>* Укажите с помощью X, в зависимости от обстоятельств.
+>| Потребности                            | Индивид | Индивид | Общество  |
+>| -------------------------------------- | --------- | --------- | --------- |
+>| -------------------------------------- | Естественные | Социальные  | --------- |
+>| 1. Быть модником                     |           | X         |           |
+>| 2. Безопасность                           | X         | X         | X         |
+>| 3. Еда                               | X         |           |           |
+>| 4. Общественный транспорт                  |           |           | X         |
+>| 5. Пользоваться автомобилем                           | X         |           |           |
+>| 6. Отпраздновать 15 лет женщин | X         |           |           |
+>| 7. Общественный порядок                       |           |           | X         |
+>| 8. Пить воду                          | X         |           |           |
+>| 9. Отдыхать                           | X         |           |           |
+>| 10. Образование                          | X         | X         | X         |
+>| 11. Праздновать свадьбы                 | X         |           |           |
+>| 12. Спокойствие                       | X         | X         | X         |
+
+### Actividad 4
+El Estado cuando decide invertir en educación, seguridad y salud ¿Qué tipo de necesidades pretende satisfacer?
+
+a) Necesidades del Individuo
+**b) Necesidades de la Sociedad**
+
+>* Государство, когда решает инвестировать в образование, безопасность и здравоохранение, какой тип потребностей оно намеревается удовлетворить?
+>a) Потребности личности
+>**б) Потребности общества**
+
+### Actividad 5
+Subrayar las necesidades económicas y marcar con un círculo las no económicas.
+
+- Alimentarse (Económica)
+- Transporte público (Económica)
+- Usar auto (Económica)
+- Dormir (No económica)
+- Vivienda (Económica)
+- Educación (Económica)
+- Respirar (No económica)
+- Refugiarse (Económica)
+- Aprender (No económica)
+- Hacer turismo (Económica)
+
+>* Подчеркните экономические потребности и отметьте кружком неэкономические.
+>- Питаться (экономическое)
+>- Общественный транспорт (экономический)
+>- Пользоваться автомобилем (экономический)
+>- Спать (неэкономический)
+>- Жилье (экономическое)
+>- Образование (экономическое)
+>- Дышать (неэкономический)
+>- Укрываться (экономический)
+>- Учиться (неэкономический)
+>- Заниматься туризмом (экономический)
+
+### Actividad 6
+Elaborar un mapa conceptual del tema: Necesidades.
+
+**Mapa conceptual (texto):**
+- **Necesidades humanas**
+  - **Según su importancia o naturaleza**
+    - Primarias (supervivencia)
+    - Secundarias (bienestar)
+  - **Según su procedencia**
+    - Individuo
+      - Naturales
+      - Sociales
+    - Sociedad
+  - **Según su importancia económica**
+    - Económicas (requieren recursos)
+    - No económicas (no requieren recursos)
+
+>* Составьте концептуальную карту по теме: Потребности.
+>**Концептуальная карта (текст):**
+>- **Человеческие потребности**
+>  - **По их значимости или природе**
+>    - Первичные (выживание)
+>    - Вторичные (благосостояние)
+>  - **По их происхождению**
+>    - Индивид
+>      - Естественные
+>      - Социальные
+>    - Общество
+>  - **По их экономической значимости**
+>    - Экономические (требуют ресурсов)
+>    - Неэкономические (не требуют ресурсов)
+
+### Actividad 7
+¿Qué tipo de necesidades usted satisface al recibir educación?
+
+- Necesidades primarias y de la sociedad (secundarias).
+
+>* Какой тип потребностей вы удовлетворяете, получая образование?
+>- Первичные и общественные (вторичные) потребности.

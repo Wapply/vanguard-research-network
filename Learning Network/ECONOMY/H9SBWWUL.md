@@ -69,7 +69,7 @@ a) Necesidades del Individuo
 
 ## Página 2
 
-### Actividad 1
+### Actividad 5
 Subrayar las necesidades económicas y marcar con un círculo las no económicas.
 
 - Alimentarse (Económica)
@@ -82,7 +82,7 @@ Subrayar las necesidades económicas y marcar con un círculo las no económicas
 - Refugiarse (Económica)
 - Aprender (No económica)
 - Hacer turismo (Económica)
-### Actividad 2
+### Actividad 6
 Elaborar un mapa conceptual del tema: Necesidades.
 
 **Mapa conceptual (texto):**
@@ -98,60 +98,66 @@ Elaborar un mapa conceptual del tema: Necesidades.
   - **Según su importancia económica**
     - Económicas (requieren recursos)
     - No económicas (no requieren recursos)
-### Actividad 3
+### Actividad 7
 ¿Qué tipo de necesidades usted satisface al recibir educación?
 
 - Necesidades primarias y de la sociedad (secundarias).
 
-Gemini necesito que continues el formato de markdown + traduccion de la actividad 1, para las actividades 2, 3, 4, 5 y pagina 2 actividad 1, 2, 3.
+Gemini necesito que continues el formato de markdown + traduccion de la actividad 1, para las actividades 2, 3, 4, 5, 6, 7.
 
 ### Actividad 2
+Marcar la opción correcta.
 
-**Mapa conceptual (texto):**
-- **Necesidades humanas**
-  - **Según su importancia o naturaleza**
-    - Primarias (supervivencia)
-    - Secundarias (bienestar)
-  - **Según su procedencia**
-    - Individuo
-      - Naturales
-      - Sociales
-    - Sociedad
-  - **Según su importancia económica**
-    - Económicas (requieren recursos)
-    - No económicas (no requieren recursos)
+1. ¿Qué tipo de necesidades se busca satisfacer primero?
+a) Necesidades autorrealización
+b) Necesidades de estima
+**c) Necesidades fisiológicas**
+
+2. Si realizamos un emprendimiento productivo ¿Qué tipo de necesidades buscamos satisfacer?
+**a) Primarias**
+b) Secundarias
+c) Naturales
 
 ### Actividad 3
+Indicar con una X, según corresponda.
 
-¿Qué tipo de necesidades usted satisface al recibir educación?
-
-- Necesidades primarias y de la sociedad (secundarias).
+| Necesidades                            | Individuo | Individuo | Sociedad  |
+| -------------------------------------- | --------- | --------- | --------- |
+| -------------------------------------- | Naturales | Sociales  | --------- |
+| 1. Ser fashionista                     |           | X         |           |
+| 2. Seguridad                           | X         | X         | X         |
+| 3. Comer                               | X         |           |           |
+| 4. Transporte público                  |           |           | X         |
+| 5. Usar auto                           | X         |           |           |
+| 6. Festejar los 15 años de las mujeres | X         |           |           |
+| 7. Orden público                       |           |           | X         |
+| 8. Beber agua                          | X         |           |           |
+| 9. Descansar                           | X         |           |           |
+| 10. Educación                          | X         | X         | X         |
+| 11. Celebrar las bodas                 | X         |           |           |
+| 12. Tranquilidad                       | X         | X         | X         |
 
 ### Actividad 4
-
 El Estado cuando decide invertir en educación, seguridad y salud ¿Qué tipo de necesidades pretende satisfacer?
 
-**a) Necesidades del Individuo**
-b) Necesidades de la Sociedad
+a) Necesidades del Individuo
+**b) Necesidades de la Sociedad**
 
-## Página 2
-
-### Actividad 1
+### Actividad 5
 Subrayar las necesidades económicas y marcar con un círculo las no económicas.
 
-- **Alimentarse (Económica)**
-- **Transporte público (Económica)**
-- **Usar auto (Económica)**
-- **Dormir (No económica)**
-- **Vivienda (Económica)**
-- **Educación (Económica)**
-- **Respirar (No económica)**
-- **Refugiarse (Económica)**
-- **Aprender (No económica)**
-- **Hacer turismo (Económica)**
+- Alimentarse (Económica)
+- Transporte público (Económica)
+- Usar auto (Económica)
+- Dormir (No económica)
+- Vivienda (Económica)
+- Educación (Económica)
+- Respirar (No económica)
+- Refugiarse (Económica)
+- Aprender (No económica)
+- Hacer turismo (Económica)
 
-### Actividad 2
-
+### Actividad 6
 Elaborar un mapa conceptual del tema: Necesidades.
 
 **Mapa conceptual (texto):**
@@ -168,8 +174,7 @@ Elaborar un mapa conceptual del tema: Necesidades.
     - Económicas (requieren recursos)
     - No económicas (no requieren recursos)
 
-### Actividad 3
+### Actividad 7
+¿Qué tipo de necesidades usted satisface al recibir educación?
 
-¿Qué tipo de necesidades satisface al recibir educación?
-
-- **Necesidades primarias y de la sociedad (secundarias).**
+- Necesidades primarias y de la sociedad (secundarias).

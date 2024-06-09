@@ -103,33 +103,4 @@ Elaborar un mapa conceptual del tema: Necesidades.
 
 - Necesidades primarias y de la sociedad (secundarias).
 
-Gemini necesito que continues el formato de markdown + añade traducción (español -> ruso) de la actividad 1, para las actividades 2, 3, 4, 5, 6, 7.
-
-**Actividad 1**
-
-### Actividad / Активность (1)
-Subrayar las necesidades primarias y marcar con un círculo las secundarias.
->*Подчеркните первичные потребности и отметьте второстепенные.*
-
-- Alimentarse (Primaria)
->*еда (первичная)*
-- Usar auto (Secundaria)
->*Используйте автомобиль (вторичный)*
-- Dormir (Primaria)
->*Сон (первичный)*
-- Salud (Primaria)
->*Здоровье (первичное)*
-- Beber agua (Primaria)
->*Пить воду (первичный)*
-- Leer poesía (Secundaria)
->*Читать стихи (вторичный)*
-- Respirar (Primaria)
->*Дышать (первичное)*
-- Abrigarse (Primaria)
->*Одеваться (первичное)*
-- Hacer turismo (Secundaria)
->*Путешествовать (вторичный)*
-- Educación (Secundaria)
->*Образование (вторичный)*
-
-**Actividad 2
+Gemini necesito que continues el formato de la Activi markdown + añade traducción (español -> ruso) de la actividad 1, para las actividades 2, 3, 4, 5, 6, 7.

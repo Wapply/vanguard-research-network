@@ -37,20 +37,52 @@ b) Necesidades de estima
 b) Secundarias
 c) Naturales
 
-Gemini: Traduce la Actividad 2 al igual que la actividad 1. (Copia el formato)
+Gemini: Traduce la Actividad 2 al igual que la actividad 1, usando ">".
+
+Title: H9SBWWUL
+  
+Starred Blocks: 
+	  
+### Actividad / Активность (1)
+Subrayar las necesidades primarias y marcar con un círculo las secundarias.
+>*Подчеркните первичные потребности и отметьте второстепенные.*
+
+- Alimentarse (Primaria)
+>*еда (первичная)*
+- Usar auto (Secundaria)
+>*Используйте автомобиль (вторичный)*
+- Dormir (Primaria)
+>*Сон (первичный)*
+- Salud (Primaria)
+>*Здоровье (первичное)*
+- Beber agua (Primaria)
+>*Пить воду (первичный)*
+- Leer poesía (Secundaria)
+>*Читать стихи (вторичный)*
+- Respirar (Primaria)
+>*Дышать (первичное)*
+- Abrigarse (Primaria)
+>*Одеваться (первичное)*
+- Hacer turismo (Secundaria)
+>*Путешествовать (вторичный)*
+- Educación (Secundaria)
+>*Образование (вторичный)*
+
+### Actividad 2
+Marcar la opción correcta.
+
+1. ¿Qué tipo de necesidades se busca satisfacer primero?
+**a) Necesidades fisiológicas**
+b) Necesidades de estima
+c) Necesidades autorrealización
+
+2. Si realizamos un emprendimiento productivo ¿Qué tipo de necesidades buscamos satisfacer?
+**a) Primarias**
+b) Secundarias
+c) Naturales
 
 ### Actividad 2 / Активность 2
-Отметить правильный вариант.
-
-1. Какие потребности стремятся удовлетворить в первую очередь?
-a) Потребности самореализации
-b) Потребности в уважении
-**c) Физиологические потребности**
-
-2. Если мы реализуем производственное предприятие, какие потребности мы стремимся удовлетворить?
-**a) Первичные**
-b) Вторичные
-c) Естественные
+Отметить правильный
 ### Explicación
 **Necesidades naturales:** Son aquellas que son esenciales para la supervivencia y el bienestar físico del individuo. Estas necesidades no dependen de la sociedad y pueden ser satisfechas de manera individual. En este caso, las necesidades naturales son: comer, beber agua, descansar y dormir.
 

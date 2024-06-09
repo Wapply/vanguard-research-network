@@ -103,4 +103,73 @@ Elaborar un mapa conceptual del tema: Necesidades.
 
 - Necesidades primarias y de la sociedad (secundarias).
 
-Gemini necesito que continues el formato de markdown + traduccion de la actividad 1, para las actividades 2, 3, 4, 5 y pagina 2 actividad 
+Gemini necesito que continues el formato de markdown + traduccion de la actividad 1, para las actividades 2, 3, 4, 5 y pagina 2 actividad 1, 2, 3.
+
+### Actividad 2
+
+**Mapa conceptual (texto):**
+- **Necesidades humanas**
+  - **Según su importancia o naturaleza**
+    - Primarias (supervivencia)
+    - Secundarias (bienestar)
+  - **Según su procedencia**
+    - Individuo
+      - Naturales
+      - Sociales
+    - Sociedad
+  - **Según su importancia económica**
+    - Económicas (requieren recursos)
+    - No económicas (no requieren recursos)
+
+### Actividad 3
+
+¿Qué tipo de necesidades usted satisface al recibir educación?
+
+- Necesidades primarias y de la sociedad (secundarias).
+
+### Actividad 4
+
+El Estado cuando decide invertir en educación, seguridad y salud ¿Qué tipo de necesidades pretende satisfacer?
+
+**a) Necesidades del Individuo**
+b) Necesidades de la Sociedad
+
+## Página 2
+
+### Actividad 1
+Subrayar las necesidades económicas y marcar con un círculo las no económicas.
+
+- **Alimentarse (Económica)**
+- **Transporte público (Económica)**
+- **Usar auto (Económica)**
+- **Dormir (No económica)**
+- **Vivienda (Económica)**
+- **Educación (Económica)**
+- **Respirar (No económica)**
+- **Refugiarse (Económica)**
+- **Aprender (No económica)**
+- **Hacer turismo (Económica)**
+
+### Actividad 2
+
+Elaborar un mapa conceptual del tema: Necesidades.
+
+**Mapa conceptual (texto):**
+- **Necesidades humanas**
+  - **Según su importancia o naturaleza**
+    - Primarias (supervivencia)
+    - Secundarias (bienestar)
+  - **Según su procedencia**
+    - Individuo
+      - Naturales
+      - Sociales
+    - Sociedad
+  - **Según su importancia económica**
+    - Económicas (requieren recursos)
+    - No económicas (no requieren recursos)
+
+### Actividad 3
+
+¿Qué tipo de necesidades satisface al recibir educación?
+
+- **Necesidades primarias y de la sociedad (secundarias).**

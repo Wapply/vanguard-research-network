@@ -103,4 +103,4 @@ Elaborar un mapa conceptual del tema: Necesidades.
 
 - Necesidades primarias y de la sociedad (secundarias).
 
-Gemini necesito que añadas una traduccion al ruso a cada linea de texto, pero conserva la linea en español, un ejemplo es la Actividad 1, que cumple con eso. Hazlo para todas las actividades demas, copia el markdown.
+Gemini necesito que continues el formato de markdown + traduccion de la actividad 1

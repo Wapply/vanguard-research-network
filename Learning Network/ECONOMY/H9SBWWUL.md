@@ -104,3 +104,6 @@ Elaborar un mapa conceptual del tema: Necesidades.
 - Necesidades primarias y de la sociedad (secundarias).
 
 Gemini necesito que copies el formato de la actividad 1 de la pagina 1 para todas las demas actividades y paginas, HAZ LAS TRADUCCIONES DEL ESPAÑOL AL RUSO. La traduccion tiene que estar como el formato siguiente.
+
+Titulo:  ### Actividad / Активность (1)
+Texto: 

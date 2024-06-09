@@ -7,6 +7,7 @@ Subrayar las necesidades primarias y marcar con un círculo las secundarias.
 - Alimentarse (Primaria)
 >еда (первичная)
 - Ir al cine (Secundaria)
+
 - Usar auto (Secundaria)
 - Dormir (Primaria)
 - Salud (Primaria)

@@ -1,6 +1,6 @@
 # Las Necesidades Humanas / Человеческие потребности
 ## Página / Страница (1)
-### Actividad 1
+### Actividad / Активность (1)
 Subrayar las necesidades primarias y marcar con un círculo las secundarias.
 
 - Alimentarse (Primaria)

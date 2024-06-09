@@ -97,85 +97,43 @@ Elaborar un mapa conceptual del tema: Necesidades.
 
 - Necesidades primarias y de la sociedad (secundarias).
 
-Gemini necesito que copies el formato de la actividad 1 desde usar auto para atras copia este tipo de formato/traduccion y hazlo para el resto de las actividades, paginas y demas que no lo tenga. Excepto por la Actividad 3.
+Gemini necesito que copies el formato de la actividad 1 desde usar auto para atras copia este tipo de formato/traduccion y hazlo para el resto de las actividades, paginas y demas que no lo tenga. Excepto por la Actividad 3. RECUERDA HAZ LAS TRADUCCIONES DEL ESPAÑOL AL RUSO. случае естественные потребности: есть, пить воду, отдыхать и спать.
 
-## Página / Страница (1)
-### Actividad / Активность (1)
-Subrayar las necesidades primarias y marcar con un círculo las secundarias.
->Подчеркните первичные потребности и отметьте второстепенные.
+**Социальные потребности:** Это потребности, которые возникают в результате взаимодействия человека с обществом. Эти потребности удовлетворяются через участие в социальных группах, общение с другими людьми и социальное признание. В данном случае социальные потребности: быть модным, праздновать 15-летие для девушек, отмечать свадьбы и пользоваться автомобилем.
 
-- Alimentarse (Primaria)
->еда (первичная)
-- Ir al cine (Secundaria)
->Перейти в кино (второстепенное)
-- Usar auto (Secundaria)
->Используйте автомобиль (вторичный)
-- Dormir (Primaria)
-- Salud (Primaria)
-- Beber agua (Primaria)
-- Leer poesía (Secundaria)
-- Respirar (Primaria)
-- Abrigarse (Primaria)
-- Hacer turismo (Secundaria)
-- Educación (Secundaria)
-
-### Actividad 2
-Marcar la opción correcta.
-
-1. ¿Qué tipo de necesidades se busca satisfacer primero?
-a) Necesidades autorrealización
-b) Necesidades de estima
-**c) Necesidades fisiológicas**
-
-2. Si realizamos un emprendimiento productivo ¿Qué tipo de necesidades buscamos satisfacer?
-**a) Primarias**
-b) Secundarias
-c) Naturales
-
-### Explicación
-**Necesidades naturales:** Son aquellas que son esenciales para la supervivencia y el bienestar físico del individuo. Estas necesidades no dependen de la sociedad y pueden ser satisfechas de manera individual. En este caso, las necesidades naturales son: comer, beber agua, descansar y dormir.
-
-**Necesidades sociales:** Son aquellas que surgen de la interacción del individuo con la sociedad. Estas necesidades se satisfacen a través de la participación en grupos sociales, la comunicación con los demás y la aceptación social. En este caso, las necesidades sociales son: ser fashionista, festejar los 15 años de las mujeres, celebrar las bodas y usar auto.
-
-**Necesidades de la sociedad:** Son aquellas que son necesarias para el funcionamiento y el desarrollo de la sociedad en su conjunto. Estas necesidades no pueden ser satisfechas por individuos de manera individual, sino que requieren de la cooperación y el esfuerzo colectivo. En este caso, las necesidades de la sociedad son: seguridad, transporte público, orden público, educación y tranquilidad.
-
+**Потребности общества:** Это потребности, которые необходимы для функционирования и развития общества в целом. Эти потребности не могут удовлетворяться отдельными людьми, а требуют сотрудничества и коллективных усилий. В данном случае потребности общества: безопасность, общественный транспорт, общественный порядок, образование и спокойствие.
 ### Actividad 3
-Indicar con una X, según corresponda.
+Отметьте крестиком (X), где это уместно.
 
-| Necesidades                            | Individuo | Individuo | Sociedad  |
-| -------------------------------------- | --------- | --------- | --------- |
-| -------------------------------------- | Naturales | Sociales  | --------- |
-| 1. Ser fashionista                     |           | X         |           |
-| 2. Seguridad                           | X         | X         | X         |
-| 3. Comer                               | X         |           |           |
-| 4. Transporte público                  |           |           | X         |
-| 5. Usar auto                           | X         |           |           |
-| 6. Festejar los 15 años de las mujeres | X         |           |           |
-| 7. Orden público                       |           |           | X         |
-| 8. Beber agua                          | X         |           |           |
-| 9. Descansar                           | X         |           |           |
-| 10. Educación                          | X         | X         | X         |
-| 11. Celebrar las bodas                 | X         |           |           |
-| 12. Tranquilidad                       | X         | X         | X         |
+| Потребности | Индивид | Индивид | Общество |
+|---|---|---|---|
+| Быть модным | | X | |
+| Безопасность | X | X | X |
+| Есть | X | | |
+| Общественный транспорт | | | X |
+| Пользоваться автомобилемности необходимо удовлетворять в первую очередь?
+a) Потребности самореализации
+b) Потребности уважения
+**c) Физиологические потребности**
 
-### Actividad 4
-El Estado cuando decide invertir en educación, seguridad y salud ¿Qué tipo de necesidades pretende satisfacer?
+2. Какие потребности мы стремимся удовлетворить, создавая производственное предприятие?
+**a) Первичные**
+b) Вторичные
+c) Естественные
+### Объяснение
+**Естественные потребности:** Это потребности, которые необходимы для выживания и физического благополучия человека. Эти потребности не зависят от общества и могут удовлетворяться индивидуально. В данномться автомобилем (вторичное)
+- Читать стихи (второстепенное)
+- Путешествовать (второстепенное)
+- Образование (второстепенное)
+### Actividad 2
+Отметьте правильный вариант.
 
-a) Necesidades del Individuo
-**b) Necesidades de la Sociedad**
+1. Какие потреб первичные потребности и отметьте второстепенные.
 
-## Página 2
+- Использовать автомобиль (второстепенное)
+>Пользова
+
+**Página 1**
 
 ### Actividad 1
-Subrayar las necesidades económicas y marcar con un círculo las no económicas.
-
-- Alimentarse (Económica)
-- Transporte público (Económica)
-- Usar auto (Económica)
-- Dormir (No económica)
-- Vivienda (Económica)
-- Educación (Económica)
-- Respirar (No económica)
-- Refugiarse (Económica)
-- Aprender (No económica)
-- Hacer turismo (Económica)
+Подчеркните

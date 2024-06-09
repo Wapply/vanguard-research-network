@@ -96,3 +96,5 @@ Elaborar un mapa conceptual del tema: Necesidades.
 ¿Qué tipo de necesidades usted satisface al recibir educación?
 
 - Necesidades primarias y de la sociedad (secundarias).
+
+Gemini necesito que copies el formato de

@@ -39,18 +39,11 @@ c) Naturales
 
 Gemini: Traduce la Actividad 2 al igual que la actividad 1, usando ">" por debajo del texto en español, NO ESCRIBAS LA ACTIVIDAD 1.
 
-### Actividad 2
-Marcar la opción correcta.
+Ejemplo:
+```
 
-1. ¿Qué tipo de necesidades se busca satisfacer primero?
-a) Necesidades autorrealización
-b) Necesidades de estima
-**c) Necesidades fisiológicas** > *Первыми удовлетворяются физиологические потребности*
-
-2. Si realizamos un emprendimiento productivo ¿Qué tipo de necesidades buscamos satisfacer?
-**a) Primarias** > *Производственный бизнес направлен на удовлетворение первичных потребностей*
-b) Secundarias
-c) Naturales
+>*{}*
+```
 ### Explicación
 **Necesidades naturales:** Son aquellas que son esenciales para la supervivencia y el bienestar físico del individuo. Estas necesidades no dependen de la sociedad y pueden ser satisfechas de manera individual. En este caso, las necesidades naturales son: comer, beber agua, descansar y dormir.
 

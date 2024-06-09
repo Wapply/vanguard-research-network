@@ -8,28 +8,20 @@ Subrayar las necesidades primarias y marcar con un círculo las secundarias.
 >еда (первичная)
 - Usar auto (Secundaria)
 >Используйте автомобиль (вторичный)
-
 - Dormir (Primaria)
 >Сон (первичный)
-
 - Salud (Primaria)
 >Здоровье (первичное)
-
 - Beber agua (Primaria)
 >Пить воду (первичный)
-
 - Leer poesía (Secundaria)
 >Читать стихи (вторичный)
-
 - Respirar (Primaria)
 >Дышать (первичное)
-
 - Abrigarse (Primaria)
 >Одеваться (первичное)
-
 - Hacer turismo (Secundaria)
 >Путешествовать (вторичный)
-
 - Educación (Secundaria)
 >Образование (вторичный)
 ### Actividad 2
@@ -111,4 +103,4 @@ Elaborar un mapa conceptual del tema: Necesidades.
 
 - Necesidades primarias y de la sociedad (secundarias).
 
-Gemini necesito que copies el formato de la actividad 1 desde usar auto para atras copia este tipo de formato/traduccion y hazlo para el resto de las actividades, paginas y demas que no lo tenga. Excepto por la Actividad 3. RECUERDA HAZ LAS TRADUCCIONES DEL ESPAÑOL AL RUSO. La traduccion tiene que estar como el formato siguiente.
+Gemini necesito que copies el formato de la actividad 1 de la pagina 1 para todas las demas actividades y paginas, HAZ LAS TRADUCCIONES DEL ESPAÑOL AL RUSO. La traduccion tiene que estar como el formato siguiente.

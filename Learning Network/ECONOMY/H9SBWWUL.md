@@ -41,8 +41,9 @@ Gemini: Traduce la Actividad 2 al igual que la actividad 1, usando ">" por debaj
 
 Ejemplo:
 ```
+{texto en español}
 
->*{}*
+>*{texto en ruso}*
 ```
 ### Explicación
 **Necesidades naturales:** Son aquellas que son esenciales para la supervivencia y el bienestar físico del individuo. Estas necesidades no dependen de la sociedad y pueden ser satisfechas de manera individual. En este caso, las necesidades naturales son: comer, beber agua, descansar y dormir.

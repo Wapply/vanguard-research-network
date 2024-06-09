@@ -37,13 +37,13 @@ b) Necesidades de estima
 b) Secundarias
 c) Naturales
 
-Gemini: Traduce la Actividad 2 al igual que la actividad 1, usando ">" por debajo del texto en español, NO ESCRIBAS LA ACTIVIDAD 1.
+Gemini: Traduce la Actividad 2 al igual que la actividad 1, usando ">" por debajo del texto en español, NO ESCRIBAS LA ACTIVIDAD 1. Quiero e
 
 Ejemplo:
 ```
-{texto en español}
+{texto en español} = Alimentarse (Primaria)
 
->*{texto en ruso}*
+>*{texto en ruso}* = *еда (первичная)*
 ```
 ### Explicación
 **Necesidades naturales:** Son aquellas que son esenciales para la supervivencia y el bienestar físico del individuo. Estas necesidades no dependen de la sociedad y pueden ser satisfechas de manera individual. En este caso, las necesidades naturales son: comer, beber agua, descansar y dormir.

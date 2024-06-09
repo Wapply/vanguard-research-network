@@ -97,22 +97,35 @@ Elaborar un mapa conceptual del tema: Necesidades.
 
 - Necesidades primarias y de la sociedad (secundarias).
 
-Gemini necesito que copies el formato de la actividad 1 desde usar auto para atras copia este tipo de formato/traduccion del titulo, texto, lista, etc... y hazlo para el resto de las actividades y demas que no lo tenga. (Económica)
-- Respirar (No económica)
-- Refugiarse (Económica)
-- Aprender (No económica)
-- Hacer turismo (Económica)
+Gemini necesito que copies el formato de la actividad 1 desde usar auto para atras copia este tipo de formato/traduccion del titulo, texto, lista, etc... y hazlo para el resto de las actividades y demas que no lo tenga. Excepto por la Actividad 3.
+
+**Actividad 1**
+
+Subrayar las necesidades económicas y marcar con un círculo las no económicas.
+
+- **Usar auto** (Económica)
+- **Dormir** (No económica)
+- **Vivienda** (Económica)
+- **Educación** (Económica)
+- **Respirar** (No económica)
+- **Refugiarse** (Económica)
+- **Aprender** (No económica)
+- **Hacer turismo** (Económica)
 
 **Actividad 2**
+
 Elaborar un mapa conceptual del tema: Necesidades.
 
 **Mapa conceptual (texto):**
- círculo las no económicas.
-
-- Usar auto (Económica)
-- Dormir (No económica)
-- Vivienda (Económica)
-- Educación
-
-**Actividad 1**
-Subrayar las necesidades económicas y marcar con un
+- **Necesidades humanas**
+  - **Según su importancia o naturaleza**
+    - Primarias (supervivencia)
+    - Secundarias (bienestar)
+  - **Según su procedencia**
+    - Individuo
+      - Naturales
+      - Sociales
+    - Sociedad
+  - **Según su importancia económica**
+    - Económicas (requieren recursos)
+    - No económicas (no requieren recursos)

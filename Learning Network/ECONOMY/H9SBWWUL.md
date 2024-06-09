@@ -106,5 +106,84 @@ Elaborar un mapa conceptual del tema: Necesidades.
 Gemini necesito que copies el formato de la actividad 1 de la pagina 1 para todas las demas actividades y paginas, HAZ LAS TRADUCCIONES DEL ESPAÑOL AL RUSO. La traduccion tiene que estar como el formato siguiente.
 
 Titulo:  ### Actividad / Активность (1)
-Texto: **Necesidades humanas**
-> 
+Texto/Etc...: 
+- Alimentarse (Primaria)
+>*еда (первичная)*
+
+**Página 1**
+
+### Actividad / Активность (2)
+Marcar la opción correcta.
+
+1. ¿Qué tipo de necesidades se busca satisfacer primero?
+a) Necesidades autorrealización
+b) Necesidades de estima
+**c) Necesidades fisiológicas**
+
+2. Si realizamos un emprendimiento productivo ¿Qué tipo de necesidades buscamos satisfacer?
+**a) Primarias**
+b) Secundarias
+c) Naturales
+
+### Actividad / Активность (3)
+Indicar con una X, según corresponda.
+
+| Necesidades                            | Individuo | Individuo | Sociedad  |
+| -------------------------------------- | --------- | --------- | --------- |
+| -------------------------------------- | Naturales | Sociales  | --------- |
+| 1. Ser fashionista                     |           | X         |           |
+| 2. Seguridad                           | X         | X         | X         |
+| 3. Comer                               | X         |           |           |
+| 4. Transporte público                  |           |           | X         |
+| 5. Usar auto                           | X         |           |           |
+| 6. Festejar los 15 años de las mujeres | X         |           |           |
+| 7. Orden público                       |           |           | X         |
+| 8. Beber agua                          | X         |           |           |
+| 9. Descansar                           | X         |           |           |
+| 10. Educación                          | X         | X         | X         |
+| 11. Celebrar las bodas                 | X         |           |           |
+| 12. Tranquilidad                       | X         | X         | X         |
+
+### Actividad / Активность (4)
+El Estado cuando decide invertir en educación, seguridad y salud ¿Qué tipo de necesidades pretende satisfacer?
+
+a) Necesidades del Individuo
+**b) Necesidades de la Sociedad**
+
+**Página 2**
+
+### Actividad / Активность (1)
+Subrayar las necesidades económicas y marcar con un círculo las no económicas.
+
+- Alimentarse (Económica)
+- Transporte público (Económica)
+- Usar auto (Económica)
+- Dormir (No económica)
+- Vivienda (Económica)
+- Educación (Económica)
+- Respirar (No económica)
+- Refugiarse (Económica)
+- Aprender (No económica)
+- Hacer turismo (Económica)
+
+### Actividad / Активность (2)
+Elaborar un mapa conceptual del tema: Necesidades.
+
+**Mapa conceptual (texto):**
+- **Necesidades humanas**
+  - **Según su importancia o naturaleza**
+    - Primarias (supervivencia)
+    - Secundarias (bienestar)
+  - **Según su procedencia**
+    - Individuo
+      - Naturales
+      - Sociales
+    - Sociedad
+  - **Según su importancia económica**
+    - Económicas (requieren recursos)
+    - No económicas (no requieren recursos)
+
+### Actividad / Активность (3)
+¿Qué tipo de necesidades usted satisface al recibir educación?
+
+- Necesidades primarias y de la sociedad (secundarias).

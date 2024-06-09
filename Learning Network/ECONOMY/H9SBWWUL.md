@@ -9,6 +9,7 @@ Subrayar las necesidades primarias y marcar con un círculo las secundarias.
 - Ir al cine (Secundaria)
 >Перейти в кино (второстепенное)
 - Usar auto (Secundaria)
+>Используйте автомобиль (вторичный)
 - Dormir (Primaria)
 - Salud (Primaria)
 - Beber agua (Primaria)

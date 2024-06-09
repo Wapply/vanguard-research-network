@@ -37,7 +37,7 @@ b) Necesidades de estima
 b) Secundarias
 c) Naturales
 
-Gemini: Traduce la Actividad 2 al igual que la actividad 1, usando ">" por debajo del texto en español, NO ESCRIBAS LA ACTIVIDAD 1. Quiero e
+Gemini: Traduce la Actividad 2 al igual que la actividad 1, usando ">" por debajo del texto en español, NO ESCRIBAS LA ACTIVIDAD 1. Quiero el texto en Español, pero añade las traducciones al ruso, sigue el ejemplo siguiente:
 
 Ejemplo:
 ```

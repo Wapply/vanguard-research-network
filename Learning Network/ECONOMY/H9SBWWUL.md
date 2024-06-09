@@ -2,28 +2,28 @@
 ## Página / Страница (1)
 ### Actividad / Активность (1)
 Subrayar las necesidades primarias y marcar con un círculo las secundarias.
->Подчеркните первичные потребности и отметьте второстепенные.
+>*Подчеркните первичные потребности и отметьте второстепенные.*
 
 - Alimentarse (Primaria)
->еда (первичная)
+>*еда (первичная)*
 - Usar auto (Secundaria)
->Используйте автомобиль (вторичный)
+>*Используйте автомобиль (вторичный)*
 - Dormir (Primaria)
->Сон (первичный)
+>*Сон (первичный)*
 - Salud (Primaria)
->Здоровье (первичное)
+>*Здоровье (первичное)*
 - Beber agua (Primaria)
->Пить воду (первичный)
+>*Пить воду (первичный)*
 - Leer poesía (Secundaria)
->Читать стихи (вторичный)
+>*Читать стихи (вторичный)*
 - Respirar (Primaria)
->Дышать (первичное)
+>*Дышать (первичное)*
 - Abrigarse (Primaria)
->Одеваться (первичное)
+>*Одеваться (первичное)*
 - Hacer turismo (Secundaria)
->Путешествовать (вторичный)
+>*Путешествовать (вторичный)*
 - Educación (Secundaria)
->Образование (вторичный)
+>*Образование (вторичный)*
 ### Actividad 2
 Marcar la opción correcta.
 
@@ -106,4 +106,5 @@ Elaborar un mapa conceptual del tema: Necesidades.
 Gemini necesito que copies el formato de la actividad 1 de la pagina 1 para todas las demas actividades y paginas, HAZ LAS TRADUCCIONES DEL ESPAÑOL AL RUSO. La traduccion tiene que estar como el formato siguiente.
 
 Titulo:  ### Actividad / Активность (1)
-Texto: 
+Texto: **Necesidades humanas**
+> 

@@ -103,4 +103,4 @@ Elaborar un mapa conceptual del tema: Necesidades.
 
 - Necesidades primarias y de la sociedad (secundarias).
 
-Gemini necesito que continues el formato de markdown + traduccion de la actividad 1
+Gemini necesito que continues el formato de markdown + traduccion de la actividad 1, para las actividades 2, 3, 4, 5 y pagina 2 actividad 

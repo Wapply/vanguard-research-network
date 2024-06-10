@@ -27,7 +27,7 @@
 ## Unidad 3:  Comprobantes y el IVA
 >Блок 3: Доказательство и НДС
 
-**1. Un cliente entra a tu tienda y te compra un producto. ¿Qué tipo de comprobante deberías entregarle? ¿Cambiaría tu respuesta si el cliente fuera un turista extranjero?**
+**1. Un cliente entra a tu tienda y te compra un producto. ¿Qué tipo de comprobante deberías entregarle?**
 >*Клиент заходит в ваш магазин и покупает товар. Какой тип документа вы должны ему предоставить? Изменится ли ваш ответ, если клиент - иностранный турист?*
 
 **2. ¿Qué información clave debe contener siempre una factura en Argentina? ¿Por qué es importante el IVA en la facturación?**

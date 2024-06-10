@@ -105,12 +105,17 @@ Subrayar las necesidades económicas y marcar con un círculo las no económicas
 >*Подчеркните экономические потребности и отметьте кружком неэкономические.*
 
 - Alimentarse (Económica)
->- Питаться (экономическое)
+>Питаться (экономическое)
 - Transporte público (Económica)
+>Общественный транспорт (экономический)
 - Usar auto (Económica)
+>Пользоваться автомобилем (экономический)
 - Dormir (No económica)
+>Спать (неэкономический)
 - Vivienda (Económica)
+>Жилье (экономическое)
 - Educación (Económica)
+>Образование (экономическое)
 - Respirar (No económica)
 - Refugiarse (Económica)
 - Aprender (No económica)
@@ -118,15 +123,15 @@ Subrayar las necesidades económicas y marcar con un círculo las no económicas
 
 
 
->- Общественный транспорт (экономический)
->- Пользоваться автомобилем (экономический)
->- Спать (неэкономический)
->- Жилье (экономическое)
->- Образование (экономическое)
->- Дышать (неэкономический)
->- Укрываться (экономический)
->- Учиться (неэкономический)
->- Заниматься туризмом (экономический)
+
+
+
+
+
+>Дышать (неэкономический)
+>Укрываться (экономический)
+>Учиться (неэкономический)
+>Заниматься туризмом (экономический)
 
 ### Actividad / Активность (6)
 Elaborar un mapa conceptual del tema: Necesidades.

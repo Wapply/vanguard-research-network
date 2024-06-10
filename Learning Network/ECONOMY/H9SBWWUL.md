@@ -24,6 +24,7 @@ Subrayar las necesidades primarias y marcar con un círculo las secundarias.
 >*Путешествовать (вторичный)*
 - Educación (Secundaria)
 >*Образование (вторичный)*
+
 ### Actividad / Активность (2)
 Marcar la opción correcta.
 
@@ -46,12 +47,14 @@ c) Naturales
 >**а) Первичные**
 >б) Вторичные
 >в) Естественные
+
 ### Explicación / Объяснение (1)
 **Necesidades naturales:** Son aquellas que son esenciales para la supervivencia y el bienestar físico del individuo. Estas necesidades no dependen de la sociedad y pueden ser satisfechas de manera individual. En este caso, las necesidades naturales son: comer, beber agua, descansar y dormir.
 
 **Necesidades sociales:** Son aquellas que surgen de la interacción del individuo con la sociedad. Estas necesidades se satisfacen a través de la participación en grupos sociales, la comunicación con los demás y la aceptación social. En este caso, las necesidades sociales son: ser fashionista, festejar los 15 años de las mujeres, celebrar las bodas y usar auto.
 
 **Necesidades de la sociedad:** Son aquellas que son necesarias para el funcionamiento y el desarrollo de la sociedad en su conjunto. Estas necesidades no pueden ser satisfechas por individuos de manera individual, sino que requieren de la cooperación y el esfuerzo colectivo. En este caso, las necesidades de la sociedad son: seguridad, transporte público, orden público, educación y tranquilidad.
+
 ### Actividad / Активность (3)
 Indicar con una X, según corresponda.
 
@@ -99,8 +102,10 @@ a) Necesidades del Individuo
 
 ### Actividad / Активность (5)
 Subrayar las necesidades económicas y marcar con un círculo las no económicas.
+>*Подчеркните экономические потребности и отметьте кружком неэкономические.*
 
 - Alimentarse (Económica)
+>- Питаться (экономическое)
 - Transporte público (Económica)
 - Usar auto (Económica)
 - Dormir (No económica)
@@ -111,8 +116,8 @@ Subrayar las necesidades económicas y marcar con un círculo las no económicas
 - Aprender (No económica)
 - Hacer turismo (Económica)
 
->*Подчеркните экономические потребности и отметьте кружком неэкономические.*
->- Питаться (экономическое)
+
+
 >- Общественный транспорт (экономический)
 >- Пользоваться автомобилем (экономический)
 >- Спать (неэкономический)

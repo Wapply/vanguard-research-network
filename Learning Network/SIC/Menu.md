@@ -28,7 +28,7 @@
 >Блок 3: Доказательство и НДС
 
 **1. Un cliente entra a tu tienda y te compra un producto. ¿Qué tipo de comprobante deberías entregarle?**
->*Клиент заходит в ваш магазин и покупает товар. Какой тип документа вы должны ему предоставить? Изменится ли ваш ответ, если клиент - иностранный турист?*
+>*Клиент заходит в ваш магазин и покупает товар. Какой тип документа вы должны ему предоставить?*
 
 **2. ¿Qué información clave debe contener siempre una factura en Argentina? ¿Por qué es importante el IVA en la facturación?**
 >*Какая ключевая информация всегда должна содержаться в счете-фактуре в Аргентине? Почему НДС важен при выставлении счетов?*

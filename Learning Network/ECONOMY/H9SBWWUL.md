@@ -117,20 +117,12 @@ Subrayar las necesidades económicas y marcar con un círculo las no económicas
 - Educación (Económica)
 >Образование (экономическое)
 - Respirar (No económica)
-- Refugiarse (Económica)
-- Aprender (No económica)
-- Hacer turismo (Económica)
-
-
-
-
-
-
-
-
 >Дышать (неэкономический)
+- Refugiarse (Económica)
 >Укрываться (экономический)
+- Aprender (No económica)
 >Учиться (неэкономический)
+- Hacer turismo (Económica)
 >Заниматься туризмом (экономический)
 
 ### Actividad / Активность (6)

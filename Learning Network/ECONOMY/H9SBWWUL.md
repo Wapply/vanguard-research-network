@@ -130,7 +130,9 @@ Elaborar un mapa conceptual del tema: Necesidades.
 >* Составьте концептуальную карту по теме: Потребности.
 
 **Mapa conceptual (texto):**
+>**Концептуальная карта (текст):**
 - **Necesidades humanas**
+>**Человеческие потребности**
   - **Según su importancia o naturaleza**
     - Primarias (supervivencia)
     - Secundarias (bienestar)
@@ -143,14 +145,13 @@ Elaborar un mapa conceptual del tema: Necesidades.
     - Económicas (requieren recursos)
     - No económicas (no requieren recursos)
 
->**Концептуальная карта (текст):**
->- **Человеческие потребности**
->  - **По их значимости или природе**
->    - Первичные (выживание)
->    - Вторичные (благосостояние)
->  - **По их происхождению**
->    - Индивид
->      - Естественные
+
+>**По их значимости или природе**
+>Первичные (выживание)
+>Вторичные (благосостояние)
+>**По их происхождению**
+>Индивид
+>Естественные
 >      - Социальные
 >    - Общество
 >  - **По их экономической значимости**

@@ -134,8 +134,11 @@ Elaborar un mapa conceptual del tema: Necesidades.
 - **Necesidades humanas**
 >**Человеческие потребности**
   - **Según su importancia o naturaleza**
-    - Primarias (supervivencia)
-    - Secundarias (bienestar)
+>**По их значимости или природе**
+- Primarias (supervivencia)
+>Первичные (выживание)
+- Secundarias (bienestar)
+ >Вторичные (благосостояние) 
   - **Según su procedencia**
     - Individuo
       - Naturales
@@ -146,17 +149,14 @@ Elaborar un mapa conceptual del tema: Necesidades.
     - No económicas (no requieren recursos)
 
 
->**По их значимости или природе**
->Первичные (выживание)
->Вторичные (благосостояние)
 >**По их происхождению**
 >Индивид
 >Естественные
->      - Социальные
->    - Общество
->  - **По их экономической значимости**
->    - Экономические (требуют ресурсов)
->    - Неэкономические (не требуют ресурсов)
+>Социальные
+>Общество
+>**По их экономической значимости**
+>Экономические (требуют ресурсов)
+>Неэкономические (не требуют ресурсов)
 
 ### Actividad / Активность (7)
 ¿Qué tipo de necesidades usted satisface al recibir educación?

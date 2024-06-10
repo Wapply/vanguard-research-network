@@ -130,15 +130,10 @@ Elaborar un mapa conceptual del tema: Necesidades.
 >* Составьте концептуальную карту по теме: Потребности.
 
 **Mapa conceptual (texto):**
->**Концептуальная карта (текст):**
 - **Necesidades humanas**
->**Человеческие потребности**
-- **Según su importancia o naturaleza**
->**По их значимости или природе**
-- Primarias (supervivencia)
->Первичные (выживание)
-- Secundarias (bienestar)
- >Вторичные (благосостояние) 
+  - **Según su importancia o naturaleza**
+    - Primarias (supervivencia)
+    - Secundarias (bienestar)
   - **Según su procedencia**
     - Individuo
       - Naturales
@@ -148,20 +143,24 @@ Elaborar un mapa conceptual del tema: Necesidades.
     - Económicas (requieren recursos)
     - No económicas (no requieren recursos)
 
-
->**По их происхождению**
->Индивид
->Естественные
->Социальные
->Общество
->**По их экономической значимости**
->Экономические (требуют ресурсов)
->Неэкономические (не требуют ресурсов)
+>**Концептуальная карта (текст):**
+>- **Человеческие потребности**
+>  - **По их значимости или природе**
+>    - Первичные (выживание)
+>    - Вторичные (благосостояние)
+>  - **По их происхождению**
+>    - Индивид
+>      - Естественные
+>      - Социальные
+>    - Общество
+>  - **По их экономической значимости**
+>    - Экономические (требуют ресурсов)
+>    - Неэкономические (не требуют ресурсов)
 
 ### Actividad / Активность (7)
 ¿Qué tipo de necesidades usted satisface al recibir educación?
+>* Какой тип потребностей вы удовлетворяете, получая образование?
 
 - Necesidades primarias y de la sociedad (secundarias).
 
->* Какой тип потребностей вы удовлетворяете, получая образование?
 >- Первичные и общественные (вторичные) потребности.

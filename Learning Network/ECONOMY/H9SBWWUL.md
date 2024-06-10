@@ -127,6 +127,7 @@ Subrayar las necesidades económicas y marcar con un círculo las no económicas
 
 ### Actividad / Активность (6)
 Elaborar un mapa conceptual del tema: Necesidades.
+>* Составьте концептуальную карту по теме: Потребности.
 
 **Mapa conceptual (texto):**
 - **Necesidades humanas**
@@ -142,7 +143,6 @@ Elaborar un mapa conceptual del tema: Necesidades.
     - Económicas (requieren recursos)
     - No económicas (no requieren recursos)
 
->* Составьте концептуальную карту по теме: Потребности.
 >**Концептуальная карта (текст):**
 >- **Человеческие потребности**
 >  - **По их значимости или природе**

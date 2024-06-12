@@ -1,1 +1,2 @@
-# La Decolonizacion
+# La Descolonización
+La descolonización fue un proceso complejo y multifacético, impulsado por una serie de factores, incluyendo la lucha por la independencia, la crisis del sistema colonial, la influencia de la Guerra Fría, y el papel crucial de la ONU. Este proceso marcó un cambio histórico importante en la configuración del mundo y sigue siendo un tema relevante en el debate político actual.

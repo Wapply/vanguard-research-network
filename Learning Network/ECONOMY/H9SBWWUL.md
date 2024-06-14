@@ -160,7 +160,7 @@ Elaborar un mapa conceptual del tema: Necesidades.
 
 ### Actividad / Активность (7)
 ¿Qué tipo de necesidades usted satisface al recibir educación?
->* Какой тип потребностей вы удовлетворяете, получая образование?
+>*Какой тип потребностей вы удовлетворяете, получая образование?
 
 - Necesidades primarias y de la sociedad (secundarias).
 

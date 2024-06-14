@@ -72,7 +72,7 @@ Indicar con una X, según corresponda.
 | 8. Beber agua                          | X         |           |            |
 | 9. Descansar                           | X         |           |            |
 | 10. Educación                          | X         | X         | X          |
-| 11. Celebrar las bodas                 | X         |           |            |
+| 11. Celebrar las bodas                 |           | X         |            |
 | 12. Tranquilidad                       | X         | X         | X          |
 
 | Потребности                            | Индивид      | Индивид    | Общество    |
@@ -88,7 +88,7 @@ Indicar con una X, según corresponda.
 | 8. Пить воду                           | X            |            |             |
 | 9. Отдыхать                            | X            |            |             |
 | 10. Образование                        | X            | X          | X           |
-| 11. Праздновать свадьбы                | X            |            |             |
+| 11. Праздновать свадьбы                |              | X          |             |
 | 12. Спокойствие                        | X            | X          | X           |
 
 ### Actividad / Активность (4)

@@ -67,7 +67,7 @@ Indicar con una X, según corresponda.
 | 3. Comer                               | X         |           |            |
 | 4. Transporte público                  |           |           | X          |
 | 5. Usar auto                           | X         |           |            |
-| 6. Festejar los 15 años de las mujeres | X         |           |            |
+| 6. Festejar los 15 años de las mujeres |           | X         |            |
 | 7. Orden público                       |           |           | X          |
 | 8. Beber agua                          | X         |           |            |
 | 9. Descansar                           | X         |           |            |
@@ -83,7 +83,7 @@ Indicar con una X, según corresponda.
 | 3. Еда                                 | X            |            |             |
 | 4. Общественный транспорт              |              |            | X           |
 | 5. Пользоваться автомобилем            | X            |            |             |
-| 6. Отпраздновать 15 лет женщин         | X            |            |             |
+| 6. Отпраздновать 15 лет женщин         |              | X          |             |
 | 7. Общественный порядок                |              |            | X           |
 | 8. Пить воду                           | X            |            |             |
 | 9. Отдыхать                            | X            |            |             |

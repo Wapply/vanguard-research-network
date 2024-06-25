@@ -36,5 +36,5 @@
 **2. ¿Qué información clave debe contener siempre una factura en Argentina? ¿Por qué es importante el IVA en la facturación?**
 >*Какая ключевая информация всегда должна содержаться в счете-фактуре в Аргентине? Почему НДС важен при выставлении счетов?*
 
-**3. Si eres un pequeño emprendedor y calificas para ser monotributista, ¿qué ventajas fiscales tendrías en comparación con una empresa que paga impuestos como "Responsable Inscripto"?**
->*Если вы - мелкий предприниматель и соответствуете требованиям для уплаты единого налога, какие налоговые преимущества у вас будут по сравнению с компанией, которая платит налоги как «зарегистрированный налогоплательщик»?*
+**Información / Respuestas:** [[LP2Z670W]]
+>Информация / Ответы: [Click Here](https://github.com/Wapply/vanguard-research-network/blob/main/Learning%20Network/SIC/LP2Z670W.md)

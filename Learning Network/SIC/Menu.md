@@ -14,8 +14,8 @@
 **4. Al final del mes, ¿cómo usas la información del Libro Diario para saber si tu negocio tuvo ganancias o pérdidas?**
 >*Как в конце месяца по ежедневной книге вы понимаете, получил ли ваш бизнес прибыль или убыток?*
 
-**Información / Respuestas:** 
->Информация / Ответы
+**Información / Respuestas:** [[9UA52Q4S]]
+>Информация / Ответы: [Click Here](https://github.com/Wapply/vanguard-research-network/blob/main/Learning%20Network/ECONOMY/H9SBWWUL.md)
 ## Unidad 2:  Uniendo fuerzas (Sociedades)
 >Блок 2: Объединенные силы (общества)
 

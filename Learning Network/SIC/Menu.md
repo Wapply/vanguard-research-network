@@ -15,7 +15,7 @@
 >*Как в конце месяца по ежедневной книге вы понимаете, получил ли ваш бизнес прибыль или убыток?*
 
 **Información / Respuestas:** [[9UA52Q4S]]
->Информация / Ответы: [Click Here](https://github.com/Wapply/vanguard-research-network/blob/main/Learning%20Network/ECONOMY/H9SBWWUL.md)
+>Информация / Ответы: [Click Here](https://github.com/Wapply/vanguard-research-network/blob/main/Learning%20Network/SIC/9UA52Q4S.md)
 ## Unidad 2:  Uniendo fuerzas (Sociedades)
 >Блок 2: Объединенные силы (общества)
 

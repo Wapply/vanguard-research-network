@@ -23,5 +23,5 @@ Es indudable que los derivados del petróleo han sido fundamentales para el desa
    - Tecnologías como la iluminación LED, electrodomésticos eficientes y edificios con diseño ecológico pueden ayudar a minimizar el uso de energía.
 
 **Conclusión**
-   - Si bien los derivados del petróleo han jugado un papel crucial en la sociedad moderna, es urgente que adoptemos alternativas sostenibles para proteger nuestro planeta.
+   - Si bien los derivados del petróleo son importantes en la sociedad actual, es urgente que adoptemos alternativas sostenibles para proteger nuestro planeta.
    - Invertir en energías renovables, materiales biodegradables y transporte sostenible no solo es una responsabilidad ambiental, sino también una oportunidad para innovar y crear un futuro más saludable y equitativo.

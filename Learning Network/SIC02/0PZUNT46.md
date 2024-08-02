@@ -1,4 +1,4 @@
-# Resumen de Contabilidad
+	# Resumen de Contabilidad
 
 ⚠️ / **Attention:** Not all translations may be correct!
 

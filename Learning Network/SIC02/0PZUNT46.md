@@ -1,7 +1,5 @@
 # Resumen de Contabilidad
-
 ⚠️ / **Attention:** Not all translations may be correct!
-
 ## Nombres de Cuentas:
 
 **Activo (A)**
@@ -24,14 +22,12 @@
 * **Inversionistas:** Inversiones realizadas en la empresa.
 * **Socio (Nombre) Cta. Aporte:** Inversión inicial de un socio.
 
-
 **Pasivo (P)**
 
 * **Documentos a Pagar:** Pagarés de nuestra firma entregados a terceros.
 * **Proveedores:** Personas a quienes debemos dinero por compras de mercaderías.
 * **Acreedores Varios:** Personas a quienes debemos dinero.
 * **Valores a Pagar:** Cheques diferidos de nuestra firma.
-
 
 **Resultados Negativos (R-)**
 
@@ -47,10 +43,11 @@
 * **Seguros:** Importe abonado en concepto de seguros.
 * **CMV (Costo de Mercadería Vendida):** Importe gastado para producir y vender productos.
 
-
 **Resultados Positivos (R+)**
 
 * **Ventas:** Importe de las mercaderías vendidas o servicios prestados.
 * **Intereses Ganados:** Recargo cobrado por pagos fuera de término o préstamos otorgados.
 * **Descuentos Obtenidos:** Rebaja en el precio que nos hacen acreedores o proveedores.
 * **Comisiones Ganadas:** Retribución por servicios prestados en operaciones de compraventa.
+
+## Conciliacion Bancaria

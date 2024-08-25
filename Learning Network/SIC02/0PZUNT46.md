@@ -51,3 +51,5 @@
 * **Comisiones Ganadas:** Retribución por servicios prestados en operaciones de compraventa.
 
 ## Conciliación Bancaria
+
+Saldo s/Mayor = - Debitos Contables = + Creditos Contables = - Debitos Bancarios = + Creditos Bancarios = Saldo Conciliado =

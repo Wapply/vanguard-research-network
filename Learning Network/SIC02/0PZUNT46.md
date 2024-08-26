@@ -53,8 +53,8 @@
 ## Conciliación Bancaria
 
 Saldo s/Mayor = 
-(-) Débitos Contables = 
+(-) Débitos Contables = -
 (+) Créditos Contables = 
-(-) Débitos Bancarios = 
+(-) Débitos Bancarios = -
 (+) Créditos Bancarios = 
 Saldo Conciliado = 

@@ -55,9 +55,14 @@
 ## Arqueo de Caja
 
 
-| A+  | Fletes |     |     |
-| --- | ------ | --- | --- |
-| A+  | Fletes |     |     |
+| +/- | Nombre | Debe | Haber |
+| --- | ------ | ---- | ----- |
+| A+  | Fletes |      |       |
+| A-  |        |      |       |
+| A+  |        |      |       |
+| A-  |        |      |       |
+| R-  |        |      |       |
+| A-  |        |      |       |
 
 
 ## Conciliación Bancaria

@@ -43,6 +43,7 @@
 * **Seguros:** Importe abonado en concepto de seguros.
 * **CMV (Costo de Mercadería Vendida):** Importe gastado para producir y vender productos.
 * **Impuestos:** Pago obligatorio al estado por la obtención de ingresos o la realización de actividades económicas.
+* **Comisiones Bancarias:** Cargos cobrados por los bancos por la prestación de servicios financieros.
 
 **Resultados Positivos (R+)**
 

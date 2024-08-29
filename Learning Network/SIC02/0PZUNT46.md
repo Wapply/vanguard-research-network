@@ -52,9 +52,10 @@
 * **Descuentos Obtenidos:** Rebaja en el precio que nos hacen acreedores o proveedores.
 * **Comisiones Ganadas:** Retribución por servicios prestados en operaciones de compraventa.
 
+
 ## Conciliación Bancaria
 
-Saldo s/Mayor = 
+Saldo s/Mayor =
 (-) Débitos Contables = -
 (+) Créditos Contables = 
 (-) Débitos Bancarios = -

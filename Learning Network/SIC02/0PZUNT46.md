@@ -52,6 +52,13 @@
 * **Descuentos Obtenidos:** Rebaja en el precio que nos hacen acreedores o proveedores.
 * **Comisiones Ganadas:** Retribución por servicios prestados en operaciones de compraventa.
 
+## Arqueo de Caja
+
+
+| A+  | Fletes |     |     |
+| --- | ------ | --- | --- |
+| A+  | Fletes |     |     |
+
 
 ## Conciliación Bancaria
 

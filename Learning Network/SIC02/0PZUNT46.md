@@ -54,6 +54,7 @@
 
 ## Arqueo de Caja
 
+(1) Saldo de Caja = $122.000
 
 | +/- | Nombre                | Debe   | Haber  |
 | --- | --------------------- | ------ | ------ |

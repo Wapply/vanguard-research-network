@@ -55,14 +55,14 @@
 ## Arqueo de Caja
 
 
-| +/- | Nombre | Debe | Haber |
-| --- | ------ | ---- | ----- |
-| A+  | Fletes |      |       |
-| A-  | a Caja |      |       |
-| A+  |        |      |       |
-| A-  |        |      |       |
-| R-  |        |      |       |
-| A-  |        |      |       |
+| +/- | Nombre                | Debe | Haber |
+| --- | --------------------- | ---- | ----- |
+| A+  | Fletes                |      |       |
+| A-  | a Caja                |      |       |
+| A+  | Caja                  |      |       |
+| A-  | a Banco XX (Cta. Cte) |      |       |
+| R-  | Facturas de Caja      |      |       |
+| A-  | a Caja                |      |       |
 
 
 ## Conciliación Bancaria

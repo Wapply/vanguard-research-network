@@ -42,6 +42,7 @@
 * **Publicidad Perdida:** Precio abonado por la promoción de productos.
 * **Seguros:** Importe abonado en concepto de seguros.
 * **CMV (Costo de Mercadería Vendida):** Importe gastado para producir y vender productos.
+* **Impuestos:** d.
 
 **Resultados Positivos (R+)**
 

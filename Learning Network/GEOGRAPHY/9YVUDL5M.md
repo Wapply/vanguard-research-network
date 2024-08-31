@@ -26,19 +26,24 @@
 1. **¿Qué es el transporte?**
     
     - Es el movimiento de personas y bienes de un lugar a otro utilizando diferentes medios como vehículos, trenes, barcos, etc.
+    
 2. **¿Qué lugares en Argentina son clave en el transporte?**
     
     - Buenos Aires (como centro de conexiones), el Puerto de Buenos Aires, y la red ferroviaria del país.
+    
 3. **¿Cómo se puede clasificar el transporte?**
     
     - Se clasifica en transporte terrestre (autos, camiones, trenes), transporte marítimo (barcos, buques) y transporte aéreo (aviones).
-4. **¿Cuáles son los elementos principales del sector transporte en Argentina?**
+    
+1. **¿Cuáles son los elementos principales del sector transporte en Argentina?**
     
     - Incluyen la infraestructura (carreteras, puertos, aeropuertos), los medios de transporte (autos, camiones, trenes), y las políticas de transporte.
-5. **¿Cómo beneficia el transporte al país?**
+    
+1. **¿Cómo beneficia el transporte al país?**
     
     - Facilita el comercio, conecta regiones, y es fundamental para la movilidad de personas y mercancías, impactando positivamente en la economía.
-6. **¿Qué políticas o acciones se llevaron a cabo en el sector transporte?**
+    
+1. **¿Qué políticas o acciones se llevaron a cabo en el sector transporte?**
     
     - Ejemplos son la modernización de la red ferroviaria, la expansión de la infraestructura vial, y el impulso al transporte público.
 

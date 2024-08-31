@@ -5,18 +5,23 @@
 1. **¿Qué es la energía?**
     
     - Es la capacidad de realizar trabajo. Puede presentarse en diversas formas como eléctrica, térmica, cinética, etc.
+    
 2. **¿Qué lugares en Argentina se destacan por su producción de energía?**
     
     - Las principales fuentes de energía en Argentina incluyen la represa de Yacyretá, el Parque Eólico de Rawson, y los campos de petróleo en Vaca Muerta.
+    
 3. **¿Cómo se puede clasificar la energía?**
     
     - La energía se clasifica en renovable (eólica, solar, hidroeléctrica) y no renovable (petróleo, gas natural, carbón).
+    
 4. **¿Cuáles son los elementos principales del sector energético en Argentina?**
     
     - Los elementos clave son las fuentes de energía (petróleo, gas, hidroeléctrica), la infraestructura (centrales eléctricas, redes de distribución), y las políticas de energía.
+    
 5. **¿Cómo beneficia el sector energético al país?**
     
     - Contribuye al desarrollo económico, genera empleo, y es crucial para la industria y el transporte. También impacta la balanza comercial a través de exportaciones de energía.
+    
 6. **¿Qué políticas o acciones se llevaron a cabo en el sector energético?**
     
     - Ejemplos incluyen la promoción de energías renovables, la implementación de subsidios a la energía, y la inversión en infraestructura como el Gasoducto Néstor Kirchner.
@@ -35,15 +40,15 @@
     
     - Se clasifica en transporte terrestre (autos, camiones, trenes), transporte marítimo (barcos, buques) y transporte aéreo (aviones).
     
-1. **¿Cuáles son los elementos principales del sector transporte en Argentina?**
+4. **¿Cuáles son los elementos principales del sector transporte en Argentina?**
     
     - Incluyen la infraestructura (carreteras, puertos, aeropuertos), los medios de transporte (autos, camiones, trenes), y las políticas de transporte.
     
-1. **¿Cómo beneficia el transporte al país?**
+5. **¿Cómo beneficia el transporte al país?**
     
     - Facilita el comercio, conecta regiones, y es fundamental para la movilidad de personas y mercancías, impactando positivamente en la economía.
     
-1. **¿Qué políticas o acciones se llevaron a cabo en el sector transporte?**
+6. **¿Qué políticas o acciones se llevaron a cabo en el sector transporte?**
     
     - Ejemplos son la modernización de la red ferroviaria, la expansión de la infraestructura vial, y el impulso al transporte público.
 

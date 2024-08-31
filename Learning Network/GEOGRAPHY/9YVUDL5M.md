@@ -1,5 +1,4 @@
 # Preguntas para Examen / Argentina
-
 ### Energía
 
 1. **¿Qué es la energía?**
@@ -25,7 +24,6 @@
 6. **¿Qué políticas o acciones se llevaron a cabo en el sector energético?**
     
     - Ejemplos incluyen la promoción de energías renovables, la implementación de subsidios a la energía, y la inversión en infraestructura como el Gasoducto Néstor Kirchner.
-
 ### Transporte
 
 1. **¿Qué es el transporte?**
@@ -51,7 +49,6 @@
 6. **¿Qué políticas o acciones se llevaron a cabo en el sector transporte?**
     
     - Ejemplos son la modernización de la red ferroviaria, la expansión de la infraestructura vial, y el impulso al transporte público.
-
 ### Industria
 
 1. **¿Qué es la industria?**

@@ -47,18 +47,23 @@
 1. **¿Qué es la industria?**
     
     - Es el sector económico dedicado a la transformación de materias primas en productos terminados mediante procesos técnicos.
+    
 2. **¿Qué lugares en Argentina son importantes para la industria?**
     
     - Buenos Aires y su área metropolitana, Córdoba (como centro industrial), y las provincias de Santa Fe y Mendoza.
+    
 3. **¿Cómo se puede clasificar la industria?**
     
     - Se clasifica en industria primaria (extractiva), secundaria (transformación de materias primas) y terciaria (servicios industriales).
+    
 4. **¿Cuáles son los elementos principales del sector industrial en Argentina?**
     
     - Incluyen las fábricas, la mano de obra, las materias primas, y la tecnología utilizada.
+    
 5. **¿Cómo beneficia la industria al país?**
     
     - Genera empleo, contribuye al PIB, y fomenta el desarrollo tecnológico e innovación.
+    
 6. **¿Qué políticas o acciones se llevaron a cabo en el sector industrial?**
     
     - Ejemplos son la promoción de la inversión en tecnología, la implementación de políticas de subsidios y protección a la industria nacional, y la creación de parques industriales.

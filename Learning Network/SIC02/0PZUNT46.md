@@ -73,6 +73,5 @@ Saldo s/Mayor =
 (-) Débitos Bancarios = -
 (+) Créditos Bancarios = 
 Saldo Conciliado = 
-
 ## Depuración de Deudores
 

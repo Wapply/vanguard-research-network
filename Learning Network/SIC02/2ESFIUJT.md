@@ -16,5 +16,12 @@ VENDEDOR: JUAN GONZALEZ, MONOTRIBUTISTA, CUIT 20-20202202-2, DOMICILIO: ALBERTI 
 | R+    | a Ventas         |      | 4750  |
 ## ¿Que es "A+", "R+", "P+", "PN"?
 
+En contabilidad, estos términos suelen estar relacionados con el análisis y clasificación de cuentas o resultados financieros:
 
+- **A+**: Activo positivo. Se refiere a un aumento en los activos o un saldo positivo en una cuenta de activo.
+- **R+**: Resultado positivo. Puede referirse a una ganancia o beneficio en una cuenta de resultados.
+- **P+**: Patrimonio positivo. Indica un aumento en el patrimonio o capital propio.
+- **PN**: Patrimonio neto. Representa la diferencia entre el activo y el pasivo de una empresa; básicamente, es el capital propio de la empresa.
+
+Estas abreviaturas pueden variar según el contexto y las normativas locales.
 ## ¿Que es el Debe y el Haber?

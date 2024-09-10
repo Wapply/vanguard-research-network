@@ -8,9 +8,11 @@ VENDEDOR JUAN GONZALEZ, MONOTRIBUTISTA, CUIT 20-20202202-2, DOMICILIO:ALBERTI 20
 
 | + / - | Nombre de Cuenta | Debe | Haber |
 | ----- | ---------------- | ---- | ----- |
-|       |                  |      |       |
-|       |                  |      |       |
-|       |                  |      |       |
+| A+    |                  |      |       |
+| R+    |                  |      |       |
+| A+    |                  |      |       |
+| P+    |                  |      |       |
+| A+    |                  |      |       |
 |       |                  |      |       |
 
 ## ¿Que es el Debe y el Haber?

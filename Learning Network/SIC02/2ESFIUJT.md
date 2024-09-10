@@ -30,5 +30,7 @@ Estas abreviaturas pueden variar según el contexto y las normativas locales.
 
 **Ejemplos de  Contexto:** Lo que aparezca entre "()" no aparece realmente en un ejercicio, es para el entendimiento, de saber cuando es que se realiza si es positivo o negativo, técnicamente un comentario para ayudarte a comprender.
 Vende (1) a consumidor final 3 pinceles a $250 (2) cada uno y 2 escuadras a $120 cada una, en efectivo (3).
-- 
+
+**Referencias:**
+- (1): Es una venta, lo cual refiere a un resultado positivo (una ganancia) ósea "R+", con el nombre de cuenta "Ventas".
 ## ¿Que es el Debe y el Haber?

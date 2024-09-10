@@ -7,12 +7,12 @@ VENDEDOR JUAN GONZALEZ, MONOTRIBUTISTA, CUIT 20-20202202-2, DOMICILIO:ALBERTI 20
 3. Vende a Reina Madre, responsable Inscripta, 15 pinceles a $250 y 10 lapiceras a $100 cada una en cuenta corriente.
 
 | + / - | Nombre de Cuenta | Debe | Haber |
-| ----- | ---------------- | ---- | ----- |
-| A+    |                  |      |       |
-| R+    |                  |      |       |
+| :---- | :--------------- | :--- | :---- |
+| A+    | Caja             |      |       |
+| R+    | a Ventas         |      |       |
 | A+    |                  |      |       |
 | P+    |                  |      |       |
 | A+    |                  |      |       |
-|       |                  |      |       |
+| R+    |                  |      |       |
 
 ## ¿Que es el Debe y el Haber?

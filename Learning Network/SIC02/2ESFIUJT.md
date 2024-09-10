@@ -28,6 +28,6 @@ En contabilidad, estos términos suelen estar relacionados con el análisis y cl
 
 Estas abreviaturas pueden variar según el contexto y las normativas locales.
 
-**Ejemplos:**
-
+**Ejemplos de  Contexto:**
+Vende a consumidor final 3 pinceles a $250 cada uno y 2 escuadras a $120 cada una., en efectivo
 ## ¿Que es el Debe y el Haber?

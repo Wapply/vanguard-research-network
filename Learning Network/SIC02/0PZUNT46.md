@@ -65,7 +65,6 @@
 | R-  | Faltante de Caja      | 1.000  |        |
 | A-  | a Caja                |        | 1.000  |
 
-
 ## Conciliación Bancaria
 
 Saldo s/Mayor =

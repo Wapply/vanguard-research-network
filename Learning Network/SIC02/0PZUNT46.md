@@ -75,3 +75,4 @@ Saldo s/Mayor =
 Saldo Conciliado = 
 ## Depuración de Deudores
 
+EJERCICIO 1: DEPURACIÓN DE DEUDORES AL CIERRE Los saldos al cierre son los siguientes: Deudores por ventas $20.000, Deudores morosos $5.000, Deudores en gestión judicial $7.000. 1. De los deudores por ventas un 25% se encuentran atrasados en sus pagos 2. Al 20% de los deudores morosos al inicio se les iniciará juicio para cobrar su deuda. 3. EL departamento de legales nos informa que el 50% de los deudores no pagaran

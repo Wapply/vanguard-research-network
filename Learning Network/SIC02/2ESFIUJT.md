@@ -14,7 +14,7 @@ VENDEDOR: JUAN GONZALEZ, MONOTRIBUTISTA, CUIT 20-20202202-2, DOMICILIO: ALBERTI 
 | P+    | a Proveedores    |      | 4500  |
 | A+    | Deudores X Venta | 4750 |       |
 | R+    | a Ventas         |      | 4750  |
-|       |                  |      |       |
+
 ## ¿Que es "A+", "R+", "P+", "PN"?
 
 En contabilidad, estos términos suelen estar relacionados con el análisis y clasificación de cuentas o resultados financieros:

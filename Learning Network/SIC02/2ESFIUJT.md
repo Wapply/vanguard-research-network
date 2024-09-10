@@ -14,6 +14,7 @@ VENDEDOR: JUAN GONZALEZ, MONOTRIBUTISTA, CUIT 20-20202202-2, DOMICILIO: ALBERTI 
 | P+    | a Proveedores    |      | 4500  |
 | A+    | Deudores X Venta | 4750 |       |
 | R+    | a Ventas         |      | 4750  |
+|       |                  |      |       |
 ## ¿Que es "A+", "R+", "P+", "PN"?
 
 En contabilidad, estos términos suelen estar relacionados con el análisis y clasificación de cuentas o resultados financieros:
@@ -35,4 +36,3 @@ Estas abreviaturas pueden variar según el contexto y las normativas locales.
 - (1): Es una venta, lo cual refiere a un resultado positivo (una ganancia) ósea "R+", con el nombre de cuenta "Ventas".
 - (2): Acabo de mencionar que se vendieron elementos los cuales se llaman "Mercaderías", a
 - (3): El efectivo se 
-## ¿Que es el Debe y el Haber?

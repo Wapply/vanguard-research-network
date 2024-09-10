@@ -27,4 +27,7 @@ En contabilidad, estos términos suelen estar relacionados con el análisis y cl
 - **PN**: Patrimonio neto. Representa la diferencia entre el activo y el pasivo de una empresa; básicamente, es el capital propio de la empresa.
 
 Estas abreviaturas pueden variar según el contexto y las normativas locales.
+
+**Ejemplos:**
+
 ## ¿Que es el Debe y el Haber?

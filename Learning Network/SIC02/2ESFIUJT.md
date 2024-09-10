@@ -29,5 +29,6 @@ En contabilidad, estos términos suelen estar relacionados con el análisis y cl
 Estas abreviaturas pueden variar según el contexto y las normativas locales.
 
 **Ejemplos de  Contexto:** Lo que aparezca entre "()" no aparece realmente en un ejercicio, es para el entendimiento, de saber cuando es que se realiza si es positivo o negativo, técnicamente un comentario para ayudarte a comprender.
-Vende (R+) a consumidor final 3 pinceles a $250 cada uno y 2 escuadras a $120 cada una., en efectivo.
+Vende (1) a consumidor final 3 pinceles a $250 (2) cada uno y 2 escuadras a $120 cada una, en efectivo (3).
+- 
 ## ¿Que es el Debe y el Haber?

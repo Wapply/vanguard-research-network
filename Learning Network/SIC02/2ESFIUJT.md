@@ -34,5 +34,10 @@ Estas abreviaturas pueden variar según el contexto y las normativas locales.
 
 **Referencias:**
 - (1): Es una venta, lo cual refiere a un resultado positivo (una ganancia) ósea "R+", con el nombre de cuenta "Ventas".
-- (2): Acabo de mencionar que se vendieron elementos los cuales se llaman "Mercaderías", que son "Activos" en este caso se pierden asi que son "A-"
-- (3): El efectivo se 
+- (2): Acabo de mencionar que se vendieron elementos los cuales se llaman "Mercaderías", que son "Activos" en este caso se pierden asi que son "A-". (Aun asi al ser una venta, la perdida de mercaderias no se anota)
+- (3): El efectivo siempre es llamado ""
+
+| + / - | Nombre de Cuenta | Debe | Haber |
+| :---- | :--------------- | :--- | :---- |
+| A+    | Caja             | 990  |       |
+| R+    | a Ventas         |      | 990   

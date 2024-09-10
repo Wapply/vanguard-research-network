@@ -33,4 +33,5 @@ Vende (1) a consumidor final 3 pinceles a $250 (2) cada uno y 2 escuadras a $120
 
 **Referencias:**
 - (1): Es una venta, lo cual refiere a un resultado positivo (una ganancia) ósea "R+", con el nombre de cuenta "Ventas".
+- (2):
 ## ¿Que es el Debe y el Haber?

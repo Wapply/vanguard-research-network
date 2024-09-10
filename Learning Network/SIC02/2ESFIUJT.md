@@ -18,12 +18,12 @@ VENDEDOR: JUAN GONZALEZ, MONOTRIBUTISTA, CUIT 20-20202202-2, DOMICILIO: ALBERTI 
 
 En contabilidad, estos términos suelen estar relacionados con el análisis y clasificación de cuentas o resultados financieros:
 
-- **P-**: Patrimonio negativo. Señala una disminución en el patrimonio o capital propio.
 - **A+**: Activo positivo. Se refiere a un aumento en los activos o un saldo positivo en una cuenta de activo.
 - **A-**: Activo negativo. Se refiere a una disminución en los activos o un saldo negativo en una cuenta de activo.
 - **R+**: Resultado positivo. Puede referirse a una ganancia o beneficio en una cuenta de resultados.
 - **R-**: Resultado negativo. Indica una pérdida o déficit en la cuenta de resultados.
 - **P+**: Patrimonio positivo. Indica un aumento en el patrimonio o capital propio.
+- **P-**: Patrimonio negativo. Señala una disminución en el patrimonio o capital propio.
 - **PN**: Patrimonio neto. Representa la diferencia entre el activo y el pasivo de una empresa; básicamente, es el capital propio de la empresa.
 
 Estas abreviaturas pueden variar según el contexto y las normativas locales.

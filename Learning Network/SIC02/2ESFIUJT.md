@@ -1,4 +1,5 @@
-# Libro Diario
+# Libro Diario / Ежедневная книга
+⚠️ / **Attention:** Not all translations may be correct!
 
 **EJERCICIO EJEMPLO: Confeccionar los comprobantes de venta.** 
 >**Пример упражнения: Сделайте ваучеры на продажу.**

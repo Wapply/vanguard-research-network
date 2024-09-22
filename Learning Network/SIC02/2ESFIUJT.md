@@ -1,13 +1,15 @@
 # Libro Diario
 
 **EJERCICIO EJEMPLO: Confeccionar los comprobantes de venta.** 
->
+>**Пример упражнения: Сделайте ваучеры на продажу.**
 
 VENDEDOR: JUAN GONZALEZ, MONOTRIBUTISTA, CUIT 20-20202202-2, DOMICILIO: ALBERTI 2002.
->
+>Продавец: Хуан Гонсалес, Monotributista, Cuit 20-20202202-2, адрес: Alberti 2002.
+
 1. Vende a consumidor final 3 pinceles a $250 cada uno y 2 escuadras a $120 cada una., en efectivo.
-2. Compra en cuenta corriente 30 pinceles a $150.
-3. Vende a Reina Madre, responsable Inscripta, 15 pinceles a $250 y 10 lapiceras a $100 cada una en cuenta corriente.
+> Продайте финальным потребителям 3 кистям по 250 долларов каждая и 2 отряда по 120 долларов каждая, наличными.
+3. Compra en cuenta corriente 30 pinceles a $150.
+4. Vende a Reina Madre, responsable Inscripta, 15 pinceles a $250 y 10 lapiceras a $100 cada una en cuenta corriente.
 
 | + / - | Nombre de Cuenta | Debe | Haber |
 | :---- | :--------------- | :--- | :---- |

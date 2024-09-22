@@ -53,9 +53,12 @@ En contabilidad, estos términos suelen estar relacionados con el análisis y cl
 >**PN**: сетевое наследие. Он представляет разницу между активом и обязательствами компании; По сути, это собственный капитал столицы.
 
 Estas abreviaturas pueden variar según el contexto y las normativas locales.
+>Эти аббревиатуры могут варьироваться в зависимости от контекста и местных правил.
 
 **Ejemplos de  Contexto:** Lo que aparezca entre "()" no aparece realmente en un ejercicio, es para el entendimiento, de saber cuando es que se realiza si es positivo o negativo, técnicamente un comentario para ayudarte a comprender.
+>**Примеры контекста:** То, что появляется между "()", на самом деле не появляется в упражнении, это для понимания, знать, когда это сделано, если это позитивно или негативно, технически комментарий, который поможет вам понять.
 - Vende (1) a consumidor final 3 pinceles a $250 cada uno y 2 escuadras a $120 cada una (2), en efectivo (3).
+>Продайте (1) для окончательного потребителя 3 кисти по 250 долл. США каждая и 2 отряда по 120 долл. США каждая (2), наличными (3).
 
 **Referencias:**
 - (1): Es una venta, lo cual refiere a un resultado positivo (una ganancia) ósea "R+", con el nombre de cuenta "Ventas".

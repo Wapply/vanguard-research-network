@@ -60,8 +60,9 @@ Estas abreviaturas pueden variar según el contexto y las normativas locales.
 - Vende (1) a consumidor final 3 pinceles a $250 cada uno y 2 escuadras a $120 cada una (2), en efectivo (3).
 >Продайте (1) для окончательного потребителя 3 кисти по 250 долл. США каждая и 2 отряда по 120 долл. США каждая (2), наличными (3).
 
-**Referencias:**
+### Referencias / Ссылки:
 - (1): Es una venta, lo cual refiere a un resultado positivo (una ganancia) ósea "R+", con el nombre de cuenta "Ventas".
+>(1): Это продажа, которая относится к положительному результату (усиление) кости «r+» с названием учетной записи «Продажи».
 - (2): Acabo de mencionar que se vendieron elementos los cuales se llaman "Mercaderías", que son "Activos" en este caso se pierden así que son "A-". (Aun así al ser una venta, la perdida de mercaderías no se anota)
 - (3): El efectivo siempre es llamado "Caja" y en este caso, al ser una venta es un "A+".
 

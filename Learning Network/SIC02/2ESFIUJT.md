@@ -42,11 +42,15 @@ En contabilidad, estos términos suelen estar relacionados con el análisis y cl
 - **A-**: Activo negativo. Se refiere a una disminución en los activos o un saldo negativo en una cuenta de activo.
 >**A-**: отрицательный актив. Это относится к снижению активов или отрицательному балансу на счете активов.
 - **R+**: Resultado positivo. Puede referirse a una ganancia o beneficio en una cuenta de resultados.
->
+>**R+**: положительный результат. Вы можете ссылаться на выгоду или выгоду в учетной записи результатов.
 - **R-**: Resultado negativo. Indica una pérdida o déficit en la cuenta de resultados.
+>**R-**: отрицательный результат. Указывает убыток или дефицит в учетной записи результатов.
 - **P+**: Patrimonio positivo. Indica un aumento en el patrimonio o capital propio.
+>**P+**: Позитивное наследие. Это указывает на увеличение собственного наследия или капитала.
 - **P-**: Patrimonio negativo. Señala una disminución en el patrimonio o capital propio.
+>**P-**: негативное наследие. Это указывает на снижение собственного наследия или капитала.
 - **PN**: Patrimonio neto. Representa la diferencia entre el activo y el pasivo de una empresa; básicamente, es el capital propio de la empresa.
+>
 
 Estas abreviaturas pueden variar según el contexto y las normativas locales.
 

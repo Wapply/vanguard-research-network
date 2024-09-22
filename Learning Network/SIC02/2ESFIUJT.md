@@ -64,9 +64,16 @@ Estas abreviaturas pueden variar según el contexto y las normativas locales.
 - (1): Es una venta, lo cual refiere a un resultado positivo (una ganancia) ósea "R+", con el nombre de cuenta "Ventas".
 >(1): Это продажа, которая относится к положительному результату (усиление) кости «r+» с названием учетной записи «Продажи».
 - (2): Acabo de mencionar que se vendieron elementos los cuales se llaman "Mercaderías", que son "Activos" en este caso se pierden así que son "A-". (Aun así al ser una venta, la perdida de mercaderías no se anota)
+>(2): Я только что упомянул, что были проданы элементы, которые называются «товарами», которые «активны» в этом случае они потеряны, поэтому они «а-». (Даже в этом случае, будучи продажей, потеря товаров не зарегистрирована)
 - (3): El efectivo siempre es llamado "Caja" y en este caso, al ser una venta es un "A+".
+>(3): Денежные средства всегда называются «коробкой», и в этом случае продажа - это «A+».
 
 | + / - | Nombre de Cuenta | Debe | Haber |
 | :---- | :--------------- | :--- | :---- |
 | A+    | Caja             | 990  |       |
 | R+    | a Ventas         |      | 990   
+
+| + / - | Имя учетной записи | Должен | Есть |
+| : ---- | : ------------- | : --- | : ---- |
+| A+ | Коробка | 990 | |
+| R+ | к продажам | | 990

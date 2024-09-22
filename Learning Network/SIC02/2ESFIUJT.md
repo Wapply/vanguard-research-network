@@ -40,8 +40,9 @@ En contabilidad, estos términos suelen estar relacionados con el análisis y cl
 - **A+**: Activo positivo. Se refiere a un aumento en los activos o un saldo positivo en una cuenta de activo.
 >**A+**: положительный активный. Это относится к увеличению активов или положительного баланса на счете активов.
 - **A-**: Activo negativo. Se refiere a una disminución en los activos o un saldo negativo en una cuenta de activo.
->
+>**A-**: отрицательный актив. Это относится к снижению активов или отрицательному балансу на счете активов.
 - **R+**: Resultado positivo. Puede referirse a una ganancia o beneficio en una cuenta de resultados.
+>
 - **R-**: Resultado negativo. Indica una pérdida o déficit en la cuenta de resultados.
 - **P+**: Patrimonio positivo. Indica un aumento en el patrimonio o capital propio.
 - **P-**: Patrimonio negativo. Señala una disminución en el patrimonio o capital propio.

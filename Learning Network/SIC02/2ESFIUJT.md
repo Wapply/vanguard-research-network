@@ -35,8 +35,10 @@ VENDEDOR: JUAN GONZALEZ, MONOTRIBUTISTA, CUIT 20-20202202-2, DOMICILIO: ALBERTI 
 ## ¿Que es "A+", "R+", "P+", "PN"?
 
 En contabilidad, estos términos suelen estar relacionados con el análisis y clasificación de cuentas o resultados financieros:
+>В бухгалтерском учете эти термины обычно связаны с анализом и классификацией счетов или финансовыми результатами:
 
 - **A+**: Activo positivo. Se refiere a un aumento en los activos o un saldo positivo en una cuenta de activo.
+>**A+**: положительный активный. Это относится к увеличению активов или положительного баланса на счете активов.
 - **A-**: Activo negativo. Se refiere a una disminución en los activos o un saldo negativo en una cuenta de activo.
 - **R+**: Resultado positivo. Puede referirse a una ganancia o beneficio en una cuenta de resultados.
 - **R-**: Resultado negativo. Indica una pérdida o déficit en la cuenta de resultados.

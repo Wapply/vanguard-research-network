@@ -50,7 +50,7 @@ En contabilidad, estos términos suelen estar relacionados con el análisis y cl
 - **P-**: Patrimonio negativo. Señala una disminución en el patrimonio o capital propio.
 >**P-**: негативное наследие. Это указывает на снижение собственного наследия или капитала.
 - **PN**: Patrimonio neto. Representa la diferencia entre el activo y el pasivo de una empresa; básicamente, es el capital propio de la empresa.
->
+>**PN**: сетевое наследие. Он представляет разницу между активом и обязательствами компании; По сути, это собственный капитал столицы.
 
 Estas abreviaturas pueden variar según el contexto y las normativas locales.
 

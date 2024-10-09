@@ -57,4 +57,4 @@ Las 62 organizaciones peronistas se fraccionaron en 1966 debido a las diferencia
 
 El **texto B** se amolda más a las ideas del **sindicalismo verticalista**,  que priorizaba la vuelta de Perón y la defensa de los intereses del movimiento obrero incluso a través de medidas radicales como las tomas de fábricas. 
 
-**Nota:**  Es importante recordar que estas respuestas son orientativas y se espera que los alumnos desarrollen sus propios análisis e interpretaciones a partir de la lectura del texto y la información  disponible. 
+**Nota:**  Es importante recordar que estas respuestas son orientativas y se espera que los alumnos desarrollen sus propios análisis e interpretaciones a partir de la lectura del texto y la información  disponible.

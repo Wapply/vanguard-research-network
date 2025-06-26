@@ -76,8 +76,8 @@
 1. **¿Por qué la transición demográfica afecta la epidemiológica?**  
    *R: Al aumentar la esperanza de vida, la población envejece y predominan enfermedades crónicas sobre infecciosas.*  
 
-2. **¿Qué es la "doble carga" en transición nutricional?**  
+2. **Qué es la "doble carga" en transición nutricional¿**  
    *R: Coexistencia de desnutrición y obesidad en un mismo país (ej: México o Brasil).*  
 
-3. **¿En qué etapa demográfica hay mayor crecimiento poblacional?**  
+3. **En qué etapa demográfica hay mayor crecimiento poblacional?**  
    *R: En transición temprana (natalidad alta + mortalidad baja).*  

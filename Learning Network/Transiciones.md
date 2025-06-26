@@ -80,7 +80,7 @@
    *R: Coexistencia de desnutrición y obesidad en un mismo país (ej: México o Brasil).*  
 
 3. **En qué etapa demográfica hay mayor crecimiento poblacional?**  
-   *R: En transición temprana (natalidad alta + mortalidad baja).*  
+   *R: En transición temprana (natalidad alta + mortalidad baja).*
 ### Teoría de la Transición Demográfica
 
 Explica cómo cambian las tasas de natalidad y mortalidad de una población a medida que una sociedad evoluciona de preindustrial a industrializada y posindustrial.
@@ -96,10 +96,8 @@ Explica cómo cambian las tasas de natalidad y mortalidad de una población a me
 - **Posindustrial:** Bajas tasas de natalidad y mortalidad; crecimiento muy lento, estabilización o declive de la población.
     
 - **Post-transicional (opcional):** Natalidad extremadamente baja (debajo del nivel de reemplazo), lo que puede llevar a decrecimiento y envejecimiento poblacional.
-    
 
 **Factores Clave:** Avances médicos y sanitarios, cambios socioeconómicos (industrialización, urbanización, educación) y empoderamiento femenino.
-
 ### Transición Epidemiológica
 
 Describe los cambios en los patrones de salud y enfermedad de una población10. Se caracteriza por la disminución de enfermedades infecciosas y el aumento de enfermedades crónicas.
@@ -111,8 +109,6 @@ Describe los cambios en los patrones de salud y enfermedad de una población10. 
 - **Edad de la disminución de las pandbrunas:** Mejora de la salud pública y descenso de la mortalidad por infecciones.
     
 - **Edad de las enfermedades degenerativas y producidas por el hombre:** Aumento de enfermedades crónicas y degenerativas.
-    
-
 ### Transición Nutricional
 
 Proceso global de cambios en los patrones de alimentación, estado nutricional y enfermedades asociadas, influenciado por la evolución económica, social y demográfica de las sociedades.
@@ -128,17 +124,14 @@ Proceso global de cambios en los patrones de alimentación, estado nutricional y
 - **Auge de las enfermedades no transmisibles:** Mayor consumo de alimentos procesados (grasas, azúcares), menor actividad física; aumento de obesidad, diabetes, enfermedades cardiovasculares.
     
 - **Cambio hacia dietas saludables:** Adopción de dietas más saludables (integrales, frutas, vegetales) y aumento de actividad física, impulsado por conciencia y políticas públicas.
-    
 
 **Factores:** Urbanización, globalización, cambios económicos, tecnología y cambios culturales.
-
 ### Relación entre las Transiciones
 
 Estas tres transiciones están **interconectadas y ocurren simultáneamente** a medida que las sociedades se desarrollan:
 
 - La **transición demográfica** (menos muertes, población envejecida) crea el escenario para las otras dos.
 - La **transición epidemiológica** se da porque al vivir más años (por mejoras en salud), las enfermedades infecciosas disminuyen y aumentan las crónicas.
-    
 - La **transición nutricional** es el resultado de los cambios económicos y sociales que acompañan a las otras transiciones, llevando a nuevas dietas que, a su vez, influyen en las enfermedades crónicas de la transición epidemiológica.
 
 En resumen, el desarrollo de una sociedad transforma su demografía, lo que a su vez cambia sus patrones de salud (enfermedades) y sus hábitos alimenticios.

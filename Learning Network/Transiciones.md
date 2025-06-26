@@ -3,13 +3,13 @@
 **Qué es:** Cambio en tasas de natalidad/mortalidad al industrializarse una sociedad.  
 **Etapas:**  
 
-| **Etapa**              | Natalidad | Mortalidad | Crecimiento | Ejemplo actual       |
-|-------------------------|-----------|------------|-------------|----------------------|
-| **Preindustrial**       | Alta      | Alta       | Lento/nulo  | Algunas zonas África |
-| **Transición temprana** | Alta      | Baja       | Rápido      | Nigeria             |
-| **Transición tardía**   | Baja      | Baja       | Desacelera  | México              |
-| **Posindustrial**       | Muy baja  | Baja       | Estable/↓   | Japón, Alemania     |
-| **Post-transicional**   | < Reemplazo | Baja     | ↓ Envejecimiento | España, Corea del Sur |
+| **Etapa**               | Natalidad   | Mortalidad | Crecimiento      | Ejemplo actual        |
+| ----------------------- | ----------- | ---------- | ---------------- | --------------------- |
+| **Preindustrial**       | Alta        | Alta       | Lento/nulo       | Algunas zonas África  |
+| **Transición temprana** | Alta        | Baja       | Rápido           | Nigeria               |
+| **Transición tardía**   | Baja        | Baja       | Desacelera       | México                |
+| **Posindustrial**       | Muy baja    | Baja       | Estable/↓        | Japón, Alemania       |
+| **Post-transicional**   | < Reemplazo | Baja       | ↓ Envejecimiento | España, Corea del Sur |
 
 **Factores clave:**  
 - ↓ Mortalidad: Avances médicos, saneamiento.  
